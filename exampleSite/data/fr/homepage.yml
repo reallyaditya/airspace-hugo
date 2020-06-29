@@ -41,6 +41,9 @@ portfolio:
     link: project
 service:
   enable: true
+  title: 'Nos Services '
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua.
 cta:
   enable: true
   bg_image: images/call-to-action-bg.jpg
