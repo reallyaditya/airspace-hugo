@@ -53,7 +53,7 @@ cta:
     Team.
   button:
     enable: true
-    label: Disez Nous De Vos Valeurs
+    label: Partagez Vos Valeurs
     link: contact
 funfacts:
   enable: true
