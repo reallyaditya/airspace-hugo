@@ -4,8 +4,9 @@ banner:
   bg_image: images/sea.jpg
   bg_overlay: true
   title: 'No one is an ISLAND. Together we are STRONG. '
-  content: Strongislands aims to connect services and products of different islands
-    in the Indian Ocean.
+  content: 'Strongislands aims to connect services and products of seven different
+    islands in the Indian Ocean: Reunion island, Mauritius, Seychelles, Rodrigues
+    island, Madagascar, Mayotte island, and Grande Comore. '
   button:
     enable: true
     label: Discover Our Project
