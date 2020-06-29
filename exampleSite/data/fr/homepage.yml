@@ -46,11 +46,11 @@ service:
     tempor incididunt ut labore et dolore magna aliqua.
 cta:
   enable: true
-  bg_image: images/call-to-action-bg.jpg
+  bg_image: images/valeur.jpg
   title: Nos Valeurs
-  content: Read more about what we do and our philosophy. Judge for yourself The work
-    and results <br> we’ve achieved for other clients, and meet our highly experienced
-    Team.
+  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   button:
     enable: true
     label: Partagez Vos Valeurs
