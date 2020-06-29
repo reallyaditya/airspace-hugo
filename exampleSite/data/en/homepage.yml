@@ -55,15 +55,17 @@ cta:
 funfacts:
   enable: true
   title: Some Facts About Us
-  description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate
     soluta corporis odit, optio cum! Accusantium numquam ab, natus excepturi architecto
     earum ipsa aliquam, illum, omnis rerum, eveniet officia nihil. Eum quod iure nulla,
-    soluta architecto distinctio. '
+    soluta architecto distinctio. 'Far far away, behind the word mountains, far from
+    the countries Vokalia and Consonantia, <br> there live the blind texts. Separated
+    they live in Bookmarksgrove right at the coast of the Semantics'
   funfact_item:
   - icon: ion-ios-chatboxes-outline
     name: Cups Of Coffee
     count: "99"
-  - icon: dashicons-money-alt
+  - icon: ion-ios-glasses-outline
     name: Products Sold
     count: "140"
   - icon: ion-ios-compose-outline
