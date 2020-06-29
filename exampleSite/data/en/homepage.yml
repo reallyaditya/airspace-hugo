@@ -43,14 +43,14 @@ service:
   enable: true
 cta:
   enable: true
-  bg_image: images/call-to-action-bg.jpg
+  bg_image: images/valeur.jpg
   title: Our Values
-  content: Read more about what we do and our philosophy. Judge for yourself The work
+  content: Read more about what we do and our philosophy. Judge for yourself the work
     and results <br> we’ve achieved for other clients, and meet our highly experienced
     Team.
   button:
     enable: true
-    label: Tell Us Your Story
+    label: Tell Us Your Values
     link: contact
 funfacts:
   enable: true
