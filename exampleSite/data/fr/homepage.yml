@@ -65,7 +65,7 @@ funfacts:
   - icon: ion-ios-chatboxes-outline
     name: Cups Of Coffee
     count: "99"
-  - icon: ion-wallet-sharp
+  - icon: ion-ios-glasses-outline
     name: Produits Vendus
     count: "140"
   - icon: ion-ios-compose-outline
