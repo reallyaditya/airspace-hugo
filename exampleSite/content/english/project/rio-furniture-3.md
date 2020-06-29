@@ -1,7 +1,7 @@
 ---
-title: Reunion
+title: Reunion Island
 description: this is meta description
-image: "/images/reunion.jpg"
+image: "/images/reunion-1.jpg"
 bg_image: images/featue-bg.jpg
 category: Video
 information:
