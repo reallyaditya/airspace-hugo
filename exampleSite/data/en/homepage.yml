@@ -44,27 +44,28 @@ service:
 cta:
   enable: true
   bg_image: images/call-to-action-bg.jpg
-  title: We design delightful digital experiences.
-  content: Read more about what we do and our philosophy of design. Judge for yourself
-    The work and results <br> we’ve achieved for other clients, and meet our highly
-    experienced Team who just love to design.
+  title: Our Values
+  content: Read more about what we do and our philosophy. Judge for yourself The work
+    and results <br> we’ve achieved for other clients, and meet our highly experienced
+    Team.
   button:
     enable: true
     label: Tell Us Your Story
     link: contact
 funfacts:
   enable: true
-  title: Fun Facts About Us
-  description: "'Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics'"
+  title: Some Facts About Us
+  description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate
+    soluta corporis odit, optio cum! Accusantium numquam ab, natus excepturi architecto
+    earum ipsa aliquam, illum, omnis rerum, eveniet officia nihil. Eum quod iure nulla,
+    soluta architecto distinctio. '
   funfact_item:
   - icon: ion-ios-chatboxes-outline
     name: Cups Of Coffee
     count: "99"
-  - icon: ion-ios-glasses-outline
-    name: Article Written
-    count: "45"
+  - icon: dashicons-money-alt
+    name: Products Sold
+    count: "140"
   - icon: ion-ios-compose-outline
     name: Projects Completed
     count: "125"
