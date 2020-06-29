@@ -43,7 +43,7 @@ service:
   enable: true
 cta:
   enable: true
-  bg_image: images/valeur.jpg
+  bg_image: images/valeur-1.jpg
   title: Our Values
   content: Read more about what we do and our philosophy. Judge for yourself the work
     and results <br> we’ve achieved for other clients, and meet our highly experienced
