@@ -3,7 +3,7 @@ banner:
   enable: true
   bg_image: images/sea.jpg
   bg_overlay: true
-  title: No one is an ISLAND <br/> & TOGETHER we are all STRONG.
+  title: 'No one is an ISLAND. Together we are STRONG. '
   content: Strongislands aims to connect services and products of different islands
     in the Indian Ocean.
   button:
