@@ -52,18 +52,10 @@ weight = 2
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 6
+weight = 4
 [[menu.main]]
 hasChildren = true
 name = "Shop"
-weight = 5
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 4
-[[menu.main]]
-URL = "service"
-name = "Service"
 weight = 3
 [[menu.main]]
 URL = "project"
