@@ -32,8 +32,7 @@ about:
     count: "20"
 features:
   enable: true
-  title: Nous relions les iles et les entrepreneurs forts de leurs connaissances,
-    expériences et ressources.
+  title: " NOUS SOMMES UNE PLATEFORME INDÉPENDANTE DE CONCEPTION ET DE DÉVELOPPEMENT."
   feature_item:
   - icon: ion-ios-color-filter-outline
     name: IOS App Development
