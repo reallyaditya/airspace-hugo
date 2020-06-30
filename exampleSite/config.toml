@@ -28,7 +28,7 @@ URL = "https://www.marideal.mu"
 name = "Services"
 weight = 4
 [[menu.footer]]
-URL = "https://www.google.mu"
+URL = "https://www.amazon.com"
 name = "Products"
 weight = 3
 [[menu.footer]]
@@ -40,12 +40,12 @@ URL = "about"
 name = "About"
 weight = 1
 [[menu.main]]
-URL = "https://www.marideal.mu"
+URL = "https://www.amazon.com"
 name = "Products"
 parent = "Shop"
 weight = 1
 [[menu.main]]
-URL = "https://www.google.mu"
+URL = "https://www.marideal.mu"
 name = "Services"
 parent = "Shop"
 weight = 2
