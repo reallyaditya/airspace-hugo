@@ -3,7 +3,7 @@ title: Seychelles
 description: this is meta description
 image: "/images/seychelles-1.jpg"
 bg_image: images/featue-bg.jpg
-category: Artisanat
+category: Video
 information:
 - label: Client
   info: Jannie Kelonsky
