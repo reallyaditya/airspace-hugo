@@ -3,7 +3,7 @@ title: Ile de la Réunion
 description: this is meta description
 image: "/images/reunion-1.jpg"
 bg_image: images/featue-bg.jpg
-category: Video
+category: Formation
 information:
 - label: Client
   info: Jannie Kelonsky
