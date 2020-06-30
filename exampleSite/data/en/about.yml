@@ -21,15 +21,6 @@ about:
   - icon: ion-ios-pint-outline
     name: Satisfied Customer
     count: "70"
-  - icon: ion-ios-wineglass-outline
-    name: Awards Winner
-    count: "10"
-  - icon: ion-ios-chatboxes-outline
-    name: Satisfied Customer
-    count: "75"
-  - icon: ion-ios-body-outline
-    name: Awards Winner
-    count: "20"
 features:
   enable: true
   title: 'We connect islands in the Indian Ocean and help talented entrepreneurs. '
