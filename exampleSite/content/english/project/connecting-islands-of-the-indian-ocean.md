@@ -3,7 +3,7 @@ bg_image = "images/featue-bg.jpg"
 category = "Video"
 description = "this is meta description"
 draft = true
-image = "/images/seychelles-1.jpg"
+image = "/images/water-3180041_1920.jpg"
 title = "Connecting Islands of the Indian Ocean"
 [[information]]
 info = "Jannie Kelonsky"
@@ -25,7 +25,7 @@ info = "Jannie Kelonsky"
 label = "Client"
 
 +++
-## Seychelles
+## We connect! 
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus
 reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate
