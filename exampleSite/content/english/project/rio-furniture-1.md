@@ -3,7 +3,7 @@ title: Mauritius
 description: this is meta description
 image: "/images/mauritius.jpg"
 bg_image: images/featue-bg.jpg
-category: UI/UX Design
+category: " Arts & crafts"
 information:
 - label: Client
   info: Jannie Kelonsky
