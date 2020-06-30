@@ -3,7 +3,7 @@ title: Madagascar
 description: this is meta description
 image: "/images/madagascar-4587230_1280.jpg"
 bg_image: images/featue-bg.jpg
-category: Illustration
+category: " Arts & crafts"
 information:
 - label: Client
   info: Jannie Kelonsky
