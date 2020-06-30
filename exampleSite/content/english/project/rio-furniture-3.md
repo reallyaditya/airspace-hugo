@@ -3,7 +3,7 @@ title: Reunion Island
 description: this is meta description
 image: "/images/reunion-1.jpg"
 bg_image: images/featue-bg.jpg
-category: Training
+category: Training, Arts & Crafts
 information:
 - label: Client
   info: Jannie Kelonsky
