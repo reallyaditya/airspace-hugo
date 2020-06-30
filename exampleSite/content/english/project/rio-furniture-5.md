@@ -3,7 +3,7 @@ title: Rodrigues Island
 description: this is meta description
 image: "/images/sea-5046730_1280.jpg"
 bg_image: images/featue-bg.jpg
-category: Illustration
+category: " Arts & crafts"
 information:
 - label: Client
   info: Jannie Kelonsky
