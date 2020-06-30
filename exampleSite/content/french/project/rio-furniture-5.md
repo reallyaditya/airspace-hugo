@@ -2,7 +2,7 @@
 title: Rodrigues
 description: this is meta description
 image: "/images/sea-5046730_1280.jpg"
-bg_image: images/featue-bg.jpg
+bg_image: "/images/img-20190801-wa0004-1.jpg"
 category: Artisanat
 information:
 - label: Client
