@@ -2,7 +2,6 @@
 bg_image = "images/featue-bg.jpg"
 category = "Video"
 description = "this is meta description"
-draft = true
 image = "/images/water-3180041_1920.jpg"
 title = "Connecting Islands of the Indian Ocean"
 [[information]]
