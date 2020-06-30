@@ -32,7 +32,7 @@ about:
     count: "20"
 features:
   enable: true
-  title: 'We connect islands in the Indian Ocean and create help talented entrepreneurs. '
+  title: 'We connect islands in the Indian Ocean and help talented entrepreneurs. '
   feature_item:
   - icon: ion-ios-color-filter-outline
     name: IOS App Development
