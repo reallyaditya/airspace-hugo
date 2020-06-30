@@ -3,7 +3,7 @@ bg_image = "images/featue-bg.jpg"
 category = "Video"
 description = "this is meta description"
 image = "/images/grande-comore.jpg"
-title = "Grande Comore"
+title = "Grande Comore & Mayotte"
 [[information]]
 info = "Jannie Kelonsky"
 label = "Client"
