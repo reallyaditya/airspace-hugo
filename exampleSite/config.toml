@@ -7,14 +7,14 @@ theme = "airspace-hugo"
 title = "Strong Islands"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
+copyright = "Copyright &copy; 2020 [StrongIslands](http://strongsislands.com/) All Rights Reserved"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
 [Languages.fr]
 contentDir = "content/french"
-copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
+copyright = "Copyright &copy; 2020 [StrongIslands](http://strongsislands.com/) All Rights Reserved"
 home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
@@ -24,11 +24,11 @@ URL = "contact"
 name = "Contact"
 weight = 5
 [[menu.footer]]
-URL = "pricing"
+URL = "https://www.marideal.mu"
 name = "Services"
 weight = 4
 [[menu.footer]]
-URL = "service"
+URL = "https://www.google.mu"
 name = "Products"
 weight = 3
 [[menu.footer]]
@@ -40,12 +40,12 @@ URL = "about"
 name = "About"
 weight = 1
 [[menu.main]]
-URL = "pricing"
+URL = "https://www.marideal.mu"
 name = "Products"
 parent = "Shop"
 weight = 1
 [[menu.main]]
-URL = "faq"
+URL = "https://www.google.mu"
 name = "Services"
 parent = "Shop"
 weight = 2
