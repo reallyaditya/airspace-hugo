@@ -2,8 +2,7 @@
 bg_image = "images/featue-bg.jpg"
 category = "Video"
 description = "this is meta description"
-draft = true
-image = "/images/reunion-1.jpg"
+image = "/images/grande-comore.jpg"
 title = "Grande Comore"
 [[information]]
 info = "Jannie Kelonsky"
@@ -25,7 +24,7 @@ info = "Jannie Kelonsky"
 label = "Client"
 
 +++
-## Ile de la Réunion
+## Grande Comore
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus
 reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate
