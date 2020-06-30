@@ -43,7 +43,6 @@ input[type="tel"] {
   }
 }
 
-
 .form-control {
   box-shadow: none;
   border-radius: 0;
@@ -54,11 +53,9 @@ input[type="tel"] {
   }
 }
 
-
 .slick-slide {
-  outline: 0
+  outline: 0;
 }
-
 
 // Button Style
 
@@ -71,7 +68,7 @@ input[type="tel"] {
   padding: 14px 35px;
   text-transform: uppercase;
   border-radius: 0;
-  @include transition (all, 0.2s, ease);
+  @include transition(all, 0.2s, ease);
 
   &.btn-icon {
     i {
@@ -87,7 +84,6 @@ input[type="tel"] {
   }
 }
 
-
 .btn-solid-border {
   border: 1px solid $light;
   background: transparent;
@@ -98,7 +94,6 @@ input[type="tel"] {
     background: $primary-color;
   }
 }
-
 
 .btn-transparent {
   @extend .btn-main;
@@ -138,21 +133,11 @@ input[type="tel"] {
   border-radius: 50px;
 }
 
-
 .btn.active:focus,
 .btn:active:focus,
 .btn:focus {
   outline: 0;
 }
-
-
-
-
-
-
-
-
-
 
 .mt-10 {
   margin-top: 20px;
@@ -186,7 +171,6 @@ input[type="tel"] {
   margin: 0 !important;
 }
 
-
 /* preloader */
 
 .preloader {
@@ -204,7 +188,7 @@ input[type="tel"] {
 
 .bg-shadow {
   background-color: $light;
-  box-shadow: 0 16px 24px rgba(0, 0, 0, .08);
+  box-shadow: 0 16px 24px rgba(0, 0, 0, 0.08);
   padding: 20px;
 }
 
@@ -222,13 +206,11 @@ input[type="tel"] {
 
 .bg-primary-darker {
   background: darken($primary-color, 20%);
-
 }
 
 .bg-dark {
   background: #202122;
 }
-
 
 .section {
   padding: 100px 0;
@@ -265,14 +247,11 @@ input[type="tel"] {
   }
 }
 
-
 .section-subtitle {
   font-size: 28px;
   font-weight: 600;
   margin-bottom: 30px;
-
 }
-
 
 .page-title {
   padding: 100px 0;
@@ -295,7 +274,6 @@ input[type="tel"] {
   }
 }
 
-
 .heading {
   padding-bottom: 60px;
   text-align: center;
@@ -315,19 +293,11 @@ input[type="tel"] {
   }
 }
 
-
-
-
-
-
-
-
-
 .page-wrapper {
   padding: 70px 0;
 }
 
-// Social Media Icons 
+// Social Media Icons
 .social-media-icons {
   ul {
     li {
@@ -339,7 +309,6 @@ input[type="tel"] {
         display: inline-block;
         padding: 7px 12px;
         color: $light;
-
       }
 
       .twitter {
@@ -366,14 +335,12 @@ input[type="tel"] {
   }
 }
 
-
-
 .dropdown-slide {
   position: static;
 
-  .open>a,
-  .open>a:focus,
-  .open>a:hover {
+  .open > a,
+  .open > a:focus,
+  .open > a:hover {
     background: transparent;
   }
 
@@ -408,7 +375,8 @@ input[type="tel"] {
     visibility: hidden;
     opacity: 0;
     transform: translateY(30px);
-    transition: visibility 0.2s, opacity 0.2s, transform 500ms cubic-bezier(0.43, 0.26, 0.11, 0.99);
+    transition: visibility 0.2s, opacity 0.2s,
+      transform 500ms cubic-bezier(0.43, 0.26, 0.11, 0.99);
 
     @include mobile {
       transform: none;
@@ -416,16 +384,13 @@ input[type="tel"] {
   }
 }
 
-
-
-
 .commonSelect {
   margin-left: 10px;
   padding-right: 6px;
   position: relative;
 
   &:before {
-    content: '\f3d0';
+    content: "\f3d0";
     font-family: $icon-font;
     position: absolute;
     right: -4px;
@@ -482,7 +447,6 @@ input[type="tel"] {
   }
 }
 
-
 .commonAccordion {
   .panel {
     border-radius: 0;
@@ -522,7 +486,6 @@ input[type="tel"] {
   @extend .commonAccordion;
 }
 
-
 .list-circle {
   padding-left: 20px;
 
@@ -530,7 +493,6 @@ input[type="tel"] {
     list-style-type: circle;
   }
 }
-
 
 .play-icon {
   border: 1px solid $border-color;
@@ -544,7 +506,6 @@ input[type="tel"] {
     line-height: 60px;
   }
 }
-
 
 .alert-common {
   border-radius: 0;
@@ -573,8 +534,6 @@ input[type="tel"] {
   }
 }
 
-
-
 .overly {
   position: relative;
 
@@ -587,7 +546,7 @@ input[type="tel"] {
     right: 0;
     width: 100%;
     height: 100%;
-    background: #1d192c;
+    background: #80b0c3a1;
     opacity: 0.8;
   }
 }
@@ -597,14 +556,12 @@ input[type="tel"] {
   background: $primary-color !important;
 }
 
-
-
 #success,
 #error {
   display: none;
 }
 
-.sticky-top{
+.sticky-top {
   position: sticky;
   top: 0;
   @include desktop {
