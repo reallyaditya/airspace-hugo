@@ -19,7 +19,7 @@ about:
     name: Produits et services disponibles
     count: "35000"
   - icon: ion-ios-pint-outline
-    name: Satisfied Customer
+    name: 'Clients satisfaits '
     count: "70"
 features:
   enable: true
