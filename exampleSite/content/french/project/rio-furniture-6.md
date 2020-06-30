@@ -2,7 +2,7 @@
 title: Seychelles
 description: this is meta description
 image: "/images/seychelles-1.jpg"
-bg_image: images/featue-bg.jpg
+bg_image: "/images/img-20190801-wa0004-1.jpg"
 category: Video
 information:
 - label: Client
