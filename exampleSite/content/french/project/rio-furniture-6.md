@@ -1,26 +1,25 @@
 ---
-title: "Rio Furniture"
-description: "this is meta description"
-draft: false
-image : "images/portfolio/work6.jpg"
-bg_image: "images/featue-bg.jpg"
-category: "Video"
+title: Seychelles
+description: this is meta description
+image: "/images/seychelles-1.jpg"
+bg_image: images/featue-bg.jpg
+category: Video
 information:
-  - label : "Client"
-    info : "Jannie Kelonsky"
-  - label : "What We Did"
-    info : "Website Redesign"
-  - label : "Tools Used"
-    info : "Photoshop,Illustrator"
-  - label : "Completed on"
-    info : "17th March 2014"
-  - label : "Skills"
-    info : "HTML5 / PHP / CSS3"
-  - label : "Client"
-    info : "Jannie Kelonsky"
----
+- label: Client
+  info: Jannie Kelonsky
+- label: What We Did
+  info: Website Redesign
+- label: Tools Used
+  info: Photoshop,Illustrator
+- label: Completed on
+  info: 17th March 2014
+- label: Skills
+  info: HTML5 / PHP / CSS3
+- label: Client
+  info: Jannie Kelonsky
 
-## Behance Website Redesign
+---
+## Seychelles
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus
 reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate
