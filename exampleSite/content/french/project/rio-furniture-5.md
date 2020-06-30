@@ -3,7 +3,7 @@ title: Rodrigues
 description: this is meta description
 image: "/images/sea-5046730_1280.jpg"
 bg_image: images/featue-bg.jpg
-category: Illustration
+category: Artisanat
 information:
 - label: Client
   info: Jannie Kelonsky
