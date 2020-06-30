@@ -1,6 +1,6 @@
 ---
-title: "Our Project"
-description: "this is meta description"
-draft: false
-bg_image: "images/featue-bg.jpg"
+title: Our Project
+description: 'We connect Islands. We grow strong together. '
+bg_image: images/featue-bg.jpg
+
 ---
