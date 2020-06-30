@@ -12,8 +12,18 @@
         <div class="block">
           <h1>{{ .title | markdownify }}</h1>
           <p>{{ .content | markdownify }}</p>
+          {{ if .button_products.enable }}
+          {{ with .button_products }}
+          <a href="{{ .link | relLangURL }}" target="_blank" class="btn btn-main animated fadeInUp">{{ .label }}</a>
+          {{ end }}
+          {{ end }}
           {{ if .button.enable }}
           {{ with .button }}
+          <a href="{{ .link | relLangURL }}" target="_blank" class="btn btn-main animated fadeInUp">{{ .label }}</a>
+          {{ end }}
+          {{ end }}
+          {{ if .button_services.enable }}
+          {{ with .button_services }}
           <a href="{{ .link | relLangURL }}" target="_blank" class="btn btn-main animated fadeInUp">{{ .label }}</a>
           {{ end }}
           {{ end }}
