@@ -24,7 +24,7 @@ URL = "contact"
 name = "Contact"
 weight = 5
 [[menu.footer]]
-URL = "https://www.marideal.mu"
+URL = "https://www.lexpressproperty.com/en/"
 name = "Services"
 weight = 4
 [[menu.footer]]
@@ -45,7 +45,7 @@ name = "Products"
 parent = "Shop"
 weight = 1
 [[menu.main]]
-URL = "https://www.marideal.mu"
+URL = "https://www.lexpressproperty.com/en/"
 name = "Services"
 parent = "Shop"
 weight = 2
