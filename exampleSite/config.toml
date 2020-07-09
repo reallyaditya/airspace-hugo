@@ -72,7 +72,7 @@ description = "This is meta description"
 email = "demo@email.com"
 google_analitycs_id = ""
 location = "Reunion Island, Indian Ocean"
-logo = "contini-logo.png"
+logo = "/images/contini-logo.png"
 mobile = "0124857985320"
 multi_author = false
 [params.gmap]
