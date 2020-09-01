@@ -3,51 +3,45 @@ banner:
   enable: true
   bg_image: images/sea.jpg
   bg_overlay: true
-  title: NO MAN IS AN ISLAND.
+  title: Le Marché local à votre portée !
   content:
-    "Strongislands est une plateforme qui met en lumière le savoir faire des
-    entrepreneurs de sept differentes îles de l'océan Indien : l'île de la Réunion,
-    l'île Maurice, les Seychelles, l'île Rodrigues, l'île Madagascar, l'île Mayotte
-    et la Grande Comore. "
+    "Contini connecte les produits et services des différentes iles de l’Océan Indien : 
+La Réunion – Maurice – Seychelles – Madagascar – Rodrigue – Mayotte – Comores"
   button:
     enable: true
     label: "Découvrez notre produits "
     link: https://www.amazon.com/
 about:
   enable: true
-  title: NOUS SOMMES STRONGISLANDS
+  title: Qui sommes-nous ?
   description:
-    Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics
+    "Nos îles, nos richesses, nos talents donnent vie à cette plateforme qui permet d’avoir accès à un commerce attacher à des valeurs tel que:
+    \n\n• L’éthique
+    \n\n• Commerce équitable
+    \n\n• Fait-Main
+    \n\n• Social
+    \n\n• Ecoresponsable"
   content:
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-    culpa qui officia deserunt mollit anim id.
+    L’Agence C&N de l’île de la Réunion vous proposent les produits et services des iles de l’Océan Indien.
   image: images/about.jpg
 portfolio:
   enable: true
   bg_image: images/idee-1.jpg
   title: "NOUS CROYONS EN VOS IDEES ! "
   content:
-    "Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
-    ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris
-    condimentum nibh, ut fermentum massa justo sit amet risus.\n\nMaecenas faucibus
-    mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-    Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum
-    massa justo sit amet risus.\n\nMaecenas faucibus mollis interdum. Morbi leo risus,
-    porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo,
-    tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. "
+    "Nous croyons en l’artisanat, et nous ferons tout ce qui est dans nos capacité pour
+    relever ce défi qui est d’être la première plateforme e-commerce dédier aux artisans.
+    \n\nLe Fait-Main, mérite d’être mise au premier rang. Tous les talents doivent pouvoir
+    s’exprimer librement et pouvoir vivre de leur passion.\n\nLa créativité est magnifique
+    et mérite d’être vue.\n\nAcheter un produit artisanal c’est s’offrir le temps qui ne
+    reviens pas et qui restera graver un objet unique. "
   button:
     enable: true
     label: View Works
     link: project
 service:
   enable: true
-  title: "Nos Services "
+  title: "Nos services"
   description:
     Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua.
@@ -56,9 +50,7 @@ cta:
   bg_image: images/valeur-1.jpg
   title: Nos Valeurs
   content:
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    L’union – passion – Respect
   button:
     enable: true
     label: Partagez Vos Valeurs
