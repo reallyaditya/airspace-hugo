@@ -56,9 +56,8 @@ cta:
   bg_image: images/valeur-1.jpg
   title: Nos Valeurs
   content:
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+      "L’union – passion – Respect"
+
   button:
     enable: true
     label: Partagez Vos Valeurs
