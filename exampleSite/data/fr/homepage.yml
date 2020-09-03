@@ -14,13 +14,13 @@ La Réunion – Maurice – Seychelles – Madagascar – Rodrigue – Mayotte �
 about:
   enable: true
   title: Qui sommes-nous ?
-  description:
-    "Nos îles, nos richesses, nos talents donnent vie à cette plateforme qui permet d’avoir accès à un commerce attacher à des valeurs tel que:
-    \n\n• L’éthique
-    \n\n• Commerce équitable
-    \n\n• Fait-Main
-    \n\n• Social
-    \n\n• Ecoresponsable"
+  description: |
+    Nos îles, nos richesses, nos talents donnent vie à cette plateforme qui permet d’avoir accès à un commerce attacher à des valeurs tel que:
+    - L’éthique
+    - Commerce équitable
+    - Fait-Main
+    - Social
+    - Ecoresponsable
   content:
     L’Agence C&N de l’île de la Réunion vous proposent les produits et services des iles de l’Océan Indien.
   image: images/about.jpg

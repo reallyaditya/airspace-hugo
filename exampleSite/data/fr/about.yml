@@ -3,74 +3,81 @@ about:
   enable: true
   image: images/company/about.jpg
   title: Des passionnées,
-  content: |-
-    Nos îles, nos richesses, nos talents donnent vie à cette plateforme qui permet d’avoir accès à un commerce attacher à des valeurs tel que :
-    - L’éthique
-    - Commerce équitable
-    - Fait-Main
-    - Social
-    - Ecoresponsable
+  content: |
+    Nos îles, nos richesses, nos talents donnent vie à cette plateforme qui permet d’avoir accès à un commerce attacher à des valeurs tel que:
+    * L’éthique
+    * Commerce équitable
+    * Fait-Main
+    * Social
+    * Ecoresponsable
 
     L’Agence C&amp;N de l’île de la Réunion vous proposent les produits et services des iles de l’Océan Indien.
-
 
   button:
     enable: true
     label: Download Company Profile
     link: "#"
   funfacts:
-  - icon: ion-ios-flask-outline
-    name: Projets en cours
-    count: "349"
-  - icon: ion-ios-flame-outline
-    name: Produits et services disponibles
-    count: "35000"
-  - icon: ion-ios-pint-outline
-    name: 'Clients satisfaits '
-    count: "70"
+    - icon: ion-ios-flask-outline
+      name: Projets en cours
+      count: "17"
+    - icon: ion-ios-flame-outline
+      name: Produits et services disponibles
+      count: "2000"
+    - icon: ion-ios-pint-outline
+      name: "Clients satisfaits "
+      count: "50"
 features:
   enable: true
   title: " NOUS SOMMES UNE PLATEFORME INDÉPENDANTE DE CONCEPTION ET DE DÉVELOPPEMENT."
   feature_item:
-  - icon: ion-ios-color-filter-outline
-    name: IOS App Development
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: ion-ios-unlocked-outline
-    name: App Secutity
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: ion-ios-game-controller-b-outline
-    name: Games Development
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: ion-ios-mic-outline
-    name: Animation and Editing
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: ion-ios-lightbulb-outline
-    name: UI/UX Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: ion-ios-star-outline
-    name: Branding
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    - icon: ion-ios-color-filter-outline
+      name: IOS App Development
+      content:
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+        tempor incididunt ut
+    - icon: ion-ios-unlocked-outline
+      name: App Secutity
+      content:
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+        tempor incididunt ut
+    - icon: ion-ios-game-controller-b-outline
+      name: Games Development
+      content:
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+        tempor incididunt ut
+    - icon: ion-ios-mic-outline
+      name: Animation and Editing
+      content:
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+        tempor incididunt ut
+    - icon: ion-ios-lightbulb-outline
+      name: UI/UX Design
+      content:
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+        tempor incididunt ut
+    - icon: ion-ios-star-outline
+      name: Branding
+      content:
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+        tempor incididunt ut
 testimonial:
   enable: true
 mission_vision:
   enable: true
   tabs:
-  - name: La Vision
-    content: Nous avons commencé avec des valeurs communes qui ont fédérer un réseau de qualité dont nous
-            sommes fières aujourd’hui La Vision qui nous poussent chaque jour à aller de l’avant c’est que nous
-            croyons dans le potentiel de chacun et grâce à notre expérience nous souhaitons créer à terme un
-            commerce aligné à nos valeurs et en accord avec notre monde d’aujourd’hui.
-  - name: La Mission
-    content: Rassembler les acteurs économiques locaux et les personnes qui partagent nos valeurs pour
+    - name: La Vision
+      content:
+        Nous avons commencé avec des valeurs communes qui ont fédérer un réseau de qualité dont nous
+        sommes fières aujourd’hui La Vision qui nous poussent chaque jour à aller de l’avant c’est que nous
+        croyons dans le potentiel de chacun et grâce à notre expérience nous souhaitons créer à terme un
+        commerce aligné à nos valeurs et en accord avec notre monde d’aujourd’hui.
+    - name: La Mission
+      content:
+        Rassembler les acteurs économiques locaux et les personnes qui partagent nos valeurs pour
         avancées et évoluer ensemble.
-  - name: L'Approche
-    content: Notre réseau est notre force,
+    - name: L'Approche
+      content: Notre réseau est notre force,
         L’Arts est passion et la passion créer l’Arts. Nous sommes des bâtisseurs engagé et respectueux de
         chaque porteur de projet
 cta:
