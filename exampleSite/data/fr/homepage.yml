@@ -59,22 +59,20 @@ funfacts:
   enable: true
   title: Quelques chiffres interessants
   description:
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate
-    soluta corporis odit, optio cum! Accusantium numquam ab, natus excepturi architecto
-    earum ipsa aliquam, illum, omnis rerum, eveniet officia nihil.
+    Notre expertise à votre service.
   funfact_item:
     - icon: ion-ios-chatboxes-outline
-      name: Cups Of Coffee
-      count: "99"
+      name: Cafés
+      count: "20"
     - icon: ion-ios-glasses-outline
       name: Produits Vendus
-      count: "140"
+      count: "10"
     - icon: ion-ios-compose-outline
       name: Projects Completed
-      count: "125"
+      count: "15"
     - icon: ion-ios-timer-outline
-      name: Combined Projects
-      count: "200"
+      name: Collaborations
+      count: "30"
   testimonial_slider:
     - name: Raymond Roy
       image: images/clients/avater-1.jpg

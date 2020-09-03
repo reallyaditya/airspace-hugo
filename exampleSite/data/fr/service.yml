@@ -46,43 +46,25 @@ service:
   service_item:
     - icon: ion-coffee
       name: Branding
-      content:
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-        tempor incididunt ut
+      content: Création de votre image d’entreprise
     - icon: ion-compass
       name: Web Design
-      content:
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-        tempor incididunt ut
+      content: Site vitrine et E-commerce
     - icon: ion-image
       name: App Design
-      content:
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-        tempor incididunt ut
+      content: Application mobile
     - icon: ion-bug
       name: Start Up
-      content:
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-        tempor incididunt ut
+      content: Conseil et accompagnement de projet
     - icon: ion-headphone
       name: Logo Design
-      content:
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-        tempor incididunt ut
+      content: Création de charte graphique
     - icon: ion-leaf
       name: Development
-      content:
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-        tempor incididunt ut
-    - icon: ion-planet
-      name: Brand Identity
-      content:
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-        tempor incididunt ut
+      content: Vous accompagne
     - icon: ion-earth
       name: Brand Identity
-      content:
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-        tempor incididunt ut
+      content: Création de la charte identitaire de votre enseigne
+
 cta:
   enable: true
