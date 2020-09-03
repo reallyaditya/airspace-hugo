@@ -2,11 +2,18 @@
 about:
   enable: true
   image: images/company/about.jpg
-  title: Nous nous efforçons d'être les meilleurs et <br> de faire un travail formidable.
+  title: Des passionnées,
   content: |-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam iure officiis facere vitae itaque.
+    Nos îles, nos richesses, nos talents donnent vie à cette plateforme qui permet d’avoir accès à un commerce attacher à des valeurs tel que :
+    - L’éthique
+    - Commerce équitable
+    - Fait-Main
+    - Social
+    - Ecoresponsable
 
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam qui vel cupiditate exercitationem, ea fuga est velit nulla culpa modi quis iste tempora non, suscipit repellendus labore voluptatem dicta amet? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident, neque!
+    L’Agence C&amp;N de l’île de la Réunion vous proposent les produits et services des iles de l’Océan Indien.
+
+
   button:
     enable: true
     label: Download Company Profile
@@ -54,38 +61,17 @@ testimonial:
 mission_vision:
   enable: true
   tabs:
-  - name: Vision
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis
-      ducimus facere repellat harum, eius cupiditate, aliquam aut deserunt. Nemo illo
-      ex impedit autem quod nobis architecto, velit quasi, aut voluptas porro natus.
-      Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus voluptatum
-      aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis,
-      cum facere iusto, modi cumque consectetur saepe. Officia, molestiae tempore!
-      Consequatur ipsa consequuntur saepe suscipit vero laudantium, mollitia, quaerat
-      soluta nihil non tempore, quos dignissimos quasi ab officiis illum numquam quibusdam
-      ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-      temporibus eos sequi alias hic nemo.
-  - name: Mission
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis
-      ducimus facere repellat harum, eius cupiditate, aliquam aut deserunt. Nemo illo
-      ex impedit autem quod nobis architecto, velit quasi, aut voluptas porro natus.
-      Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus voluptatum
-      aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis,
-      cum facere iusto, modi cumque consectetur saepe. Officia, molestiae tempore!
-      Consequatur ipsa consequuntur saepe suscipit vero laudantium, mollitia, quaerat
-      soluta nihil non tempore, quos dignissimos quasi ab officiis illum numquam quibusdam
-      ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-      temporibus eos sequi alias hic nemo.
-  - name: Approach
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis
-      ducimus facere repellat harum, eius cupiditate, aliquam aut deserunt. Nemo illo
-      ex impedit autem quod nobis architecto, velit quasi, aut voluptas porro natus.
-      Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus voluptatum
-      aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis,
-      cum facere iusto, modi cumque consectetur saepe. Officia, molestiae tempore!
-      Consequatur ipsa consequuntur saepe suscipit vero laudantium, mollitia, quaerat
-      soluta nihil non tempore, quos dignissimos quasi ab officiis illum numquam quibusdam
-      ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-      temporibus eos sequi alias hic nemo.
+  - name: La Vision
+    content: Nous avons commencé avec des valeurs communes qui ont fédérer un réseau de qualité dont nous
+            sommes fières aujourd’hui La Vision qui nous poussent chaque jour à aller de l’avant c’est que nous
+            croyons dans le potentiel de chacun et grâce à notre expérience nous souhaitons créer à terme un
+            commerce aligné à nos valeurs et en accord avec notre monde d’aujourd’hui.
+  - name: La Mission
+    content: Rassembler les acteurs économiques locaux et les personnes qui partagent nos valeurs pour
+        avancées et évoluer ensemble.
+  - name: L'Approche
+    content: Notre réseau est notre force,
+        L’Arts est passion et la passion créer l’Arts. Nous sommes des bâtisseurs engagé et respectueux de
+        chaque porteur de projet
 cta:
   enable: true
