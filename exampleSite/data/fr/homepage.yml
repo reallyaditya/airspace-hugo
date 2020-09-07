@@ -5,17 +5,17 @@ banner:
   bg_overlay: true
   title: Le Marché local à votre portée !
   content:
-"Contini connects the product and services from the different islands in the Indian Ocean :
-Reunion Island - Mauritius - Seychelles -Madagascar - Rodrigues - Mayotte - Comores"
+     "Contini connecte les produits et services des différentes iles de l’Océan Indien : 
+     La Réunion – Maurice – Seychelles – Madagascar – Rodrigue – Mayotte – Comores"
   button:
     enable: true
-    label: "Disover our produit"
+    label: "Découvrez notre produits "
     link: https://www.amazon.com/
 about:
   enable: true
-  title: Who are we ?
+  title: Qui sommes-nous ?
   description: |
-    Our Island, our wealth, nos talents donnent vie à cette plateforme qui permet d’avoir accès à un commerce attacher à des valeurs tel que:
+    Nos îles, nos richesses, nos talents donnent vie à cette plateforme qui permet d’avoir accès à un commerce attacher à des valeurs tel que:
     - L’éthique
     - Commerce équitable
     - Fait-Main
@@ -78,19 +78,20 @@ funfacts:
       image: images/clients/avater-1.jpg
       designation: CEO-Themefisher
       content:
-        Nous nous efforçons d’être les meilleurs et de faire un travail formidable.
+        This Company created an e-commerce site with the tools to make our business
+        a success, with innovative ideas we feel that our site has unique elements that
+        make us stand out from the crowd.
     - name: Randi Renin
       image: images/clients/avater-1.jpg
       designation: CEO-Themefisher
       content:
-        L’Agence C&N se préoccupe du bon développement des porteurs de projets et des entrepreneurs.
+        This Company created an e-commerce site with the tools to make our business
+        a success, with innovative ideas we feel that our site has unique elements that
+        make us stand out from the crowd.
     - name: Rose Rio
       image: images/clients/avater-3.jpg
       designation: CEO-Themefisher
       content:
-        Tout est mis en œuvre afin de vous apporter les solutions à vos besoins du quotidien.
-    - name: John Doe
-      image: images/clients/avater-3.jpg
-      designation: CEO-Themefisher
-      content:
-        Tous les jours nous sommes face à des choix importants et se sentir accompagner et une grâce indéniable.
+        This Company created an e-commerce site with the tools to make our business
+        a success, with innovative ideas we feel that our site has unique elements that
+        make us stand out from the crowd.

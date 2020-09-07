@@ -3,92 +3,76 @@ banner:
   enable: true
   bg_image: images/sea.jpg
   bg_overlay: true
-  title: No man is an ISLAND.
+  title: Le Marché local à votre portée !
   content:
-    "Strongislands connects services and products of seven different islands
-    in the Indian Ocean: Reunion island, Mauritius, Seychelles, Rodrigues island,
-    Madagascar, Mayotte island, and Grande Comore. "
+     "Contini connects the product and services from the different islands in the Indian Ocean :
+     Reunion Island - Mauritius - Seychelles -Madagascar - Rodrigues - Mayotte - Comores"
   button:
     enable: true
-    label: Discover Our Products
+    label: "Disover our products"
     link: https://www.amazon.com/
-  # button_products:
-  #   enable: true
-  #   label: Discover Our Products
-  #   link: https://www.amazon.com/
-  # button_services:
-  #   enable: true
-  #   label: Discover Our Services
-  #   link: https://www.marideal.mu/
 about:
   enable: true
-  title: WE are Strongislands
-  description:
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+  title: Who are we ?
+  description: |
+    Our Islands, our values and our talents breeze life to this platform which allows you to access to trading with the following values:
+    - Ethics
+    - Trading equality
+    - Homemade
+    - Social
+    - Eco-Friendly
   content:
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-    culpa qui officia deserunt mollit anim id.
+    The C&N Agency of Reunion Islands proposes the products and services of all the Islands of the Indian Ocean.
   image: images/about.jpg
 portfolio:
   enable: true
   bg_image: images/idee-1.jpg
-  title: WE BELIEVE IN GREAT IDEAS
+  title: "WE BELIEVE IN YOUR IDEAS! "
   content:
-    " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
-    ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris
-    condimentum nibh, ut fermentum massa justo sit amet risus.\n\nMaecenas faucibus
-    mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-    Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum
-    massa justo sit amet risus.\n\nMaecenas faucibus mollis interdum. Morbi leo risus,
-    porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo,
-    tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. "
+      "We believe in craftsmanship and we will do to our maximum to face the challenge of being the 
+      first e-commerce dedicated to craftsmanship.
+    \n\nHomemade needs to be put at the forefront. All our talents should have the ability to 
+    express themselve freely.\n\nCreation is a magnificent endeavour and needs to be seen and heard.
+    \n\nBuying an artisanal product is to invest in the value of time, which will never come back, but will forever be imprinted
+     in the fabrics of a unique object."
   button:
     enable: true
     label: View Works
     link: project
 service:
   enable: true
+  title: "Our Services"
+  description:
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua.
 cta:
   enable: true
   bg_image: images/valeur-1.jpg
-  title: Our Values
+  title: Nos Valeurs
   content:
-    Read more about what we do and our philosophy. Judge for yourself the work
-    and results <br> we’ve achieved for other clients, and meet our highly experienced
-    Team.
+    Union – passion – Respect
   button:
     enable: true
-    label: Tell Us Your Values
+    label: Share our values
     link: contact
 funfacts:
   enable: true
-  title: Some Facts About Us
+  title: Some interesting figures
   description:
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate
-    soluta corporis odit, optio cum! Accusantium numquam ab, natus excepturi architecto
-    earum ipsa aliquam, illum, omnis rerum, eveniet officia nihil. Eum quod iure nulla,
-    soluta architecto distinctio. 'Far far away, behind the word mountains, far from
-    the countries Vokalia and Consonantia, <br> there live the blind texts. Separated
-    they live in Bookmarksgrove right at the coast of the Semantics'
+    Our expertise at your service
   funfact_item:
     - icon: ion-ios-chatboxes-outline
-      name: Cups Of Coffee
-      count: "99"
+      name: Cafés
+      count: "20"
     - icon: ion-ios-glasses-outline
-      name: Products Sold
-      count: "140"
+      name: Produits Vendus
+      count: "10"
     - icon: ion-ios-compose-outline
       name: Projects Completed
-      count: "125"
+      count: "15"
     - icon: ion-ios-timer-outline
-      name: Combined Projects
-      count: "200"
+      name: Collaborations
+      count: "30"
   testimonial_slider:
     - name: Raymond Roy
       image: images/clients/avater-1.jpg
