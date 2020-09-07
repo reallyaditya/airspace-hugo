@@ -78,21 +78,24 @@ funfacts:
       image: images/clients/avater-1.jpg
       designation: CEO
       content:
-        We do our best to do an impeccable work
+        Nous nous efforçons d’être les meilleurs et de faire un travail formidable
     - name: 
       image: images/clients/avater-1.jpg
       designation: CEO-Themefisher
       content:
-        The C&amp;N agency worries about the good development of the project leaders and of the entrepreneurs.
+        L’Agence C&amp;N se préoccupe du bon développement des porteurs de
+      projets et des entrepreneurs
         
     - name: 
       image: images/clients/avater-3.jpg
       designation: CEO-Themefisher
       content:
-        Everything has been put in place so as to bring solutions to your daily needs
-   - name: 
+        Tout est mis en œuvre afin de vous apporter les solutions à vos besoins
+du quotidien.
+
+    - name: 
       image: images/clients/avater-3.jpg
       designation: CEO-Themefisher
       content:
-        Everyday we make important decisions and we are very grateful to have a support 
-
+          Tous les jours nous sommes face à des choix importants et se sentir
+accompagner et une grâce indéniable.
