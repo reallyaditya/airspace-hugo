@@ -78,20 +78,19 @@ funfacts:
       image: images/clients/avater-1.jpg
       designation: CEO-Themefisher
       content:
-        This Company created an e-commerce site with the tools to make our business
-        a success, with innovative ideas we feel that our site has unique elements that
-        make us stand out from the crowd.
+        Nous nous efforçons d’être les meilleurs et de faire un travail formidable.
     - name: Randi Renin
       image: images/clients/avater-1.jpg
       designation: CEO-Themefisher
       content:
-        This Company created an e-commerce site with the tools to make our business
-        a success, with innovative ideas we feel that our site has unique elements that
-        make us stand out from the crowd.
+        L’Agence C&N se préoccupe du bon développement des porteurs de projets et des entrepreneurs.
     - name: Rose Rio
       image: images/clients/avater-3.jpg
       designation: CEO-Themefisher
       content:
-        This Company created an e-commerce site with the tools to make our business
-        a success, with innovative ideas we feel that our site has unique elements that
-        make us stand out from the crowd.
+        Tout est mis en œuvre afin de vous apporter les solutions à vos besoins du quotidien.
+    - name: John Doe
+      image: images/clients/avater-3.jpg
+      designation: CEO-Themefisher
+      content:
+        Tous les jours nous sommes face à des choix importants et se sentir accompagner et une grâce indéniable.

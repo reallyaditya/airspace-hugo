@@ -60,7 +60,7 @@ service:
       name: Logo Design
       content: Création de charte graphique
     - icon: ion-leaf
-      name: Development
+      name: Developpement
       content: Vous accompagne
     - icon: ion-earth
       name: Brand Identity
