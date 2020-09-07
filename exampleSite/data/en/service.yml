@@ -37,37 +37,27 @@ service:
   description: 
    "We are a team of expert in corporate branding and propose to boost your visibily with our various services. We are an available team and are proving ourself in the local market with multiple events for the entire year that would help craftsmen showcase their creations."
   service_item:
-  - icon: ion-coffee
-    name: Branding
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: ion-compass
-    name: Web Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: ion-image
-    name: App Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: ion-bug
-    name: Start Up
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: ion-headphone
-    name: Logo Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: ion-leaf
-    name: Development
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: ion-planet
-    name: Brand Identity
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: ion-earth
-    name: Brand Identity
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    - icon: ion-coffee
+      name: Branding
+      content: Creation of your enterprise branding
+    - icon: ion-compass
+      name: Web Design
+      content: Showcase website with e-commerce
+    - icon: ion-image
+      name: App Design
+      content: Mobile application
+    - icon: ion-bug
+      name: Start Up
+      content: Consulting and guidance on your project
+    - icon: ion-headphone
+      name: Logo Design
+      content: Graphic charter Creation
+    - icon: ion-leaf
+      name: Developpement
+      content: We accompany you
+    - icon: ion-earth
+      name: Brand Identity
+      content: Identity charter creation of your brand
+
 cta:
   enable: true

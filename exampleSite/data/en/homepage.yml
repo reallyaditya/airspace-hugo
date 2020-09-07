@@ -61,10 +61,10 @@ funfacts:
     Our expertise at your service
   funfact_item:
     - icon: ion-ios-chatboxes-outline
-      name: Cafés
+      name: Coffee
       count: "20"
     - icon: ion-ios-glasses-outline
-      name: Produits Vendus
+      name: Products sold
       count: "10"
     - icon: ion-ios-compose-outline
       name: Projects Completed
@@ -73,24 +73,25 @@ funfacts:
       name: Collaborations
       count: "30"
   testimonial_slider:
-    - name: Raymond Roy
+    - name: 
+      image: images/clients/avater-1.jpg
+      designation: CEO
+      content:
+        We do our best to do an impeccable work
+    - name: 
       image: images/clients/avater-1.jpg
       designation: CEO-Themefisher
       content:
-        This Company created an e-commerce site with the tools to make our business
-        a success, with innovative ideas we feel that our site has unique elements that
-        make us stand out from the crowd.
-    - name: Randi Renin
-      image: images/clients/avater-1.jpg
-      designation: CEO-Themefisher
-      content:
-        This Company created an e-commerce site with the tools to make our business
-        a success, with innovative ideas we feel that our site has unique elements that
-        make us stand out from the crowd.
-    - name: Rose Rio
+        The C&amp;N agency worries about the good development of the project leaders and of the entrepreneurs.
+        
+    - name: 
       image: images/clients/avater-3.jpg
       designation: CEO-Themefisher
       content:
-        This Company created an e-commerce site with the tools to make our business
-        a success, with innovative ideas we feel that our site has unique elements that
-        make us stand out from the crowd.
+        Everything has been put in place so as to bring solutions to your daily needs
+
+    - name: 
+      image: images/clients/avater-3.jpg
+      designation: CEO-Themefisher
+      content:
+          Everyday we make important decisions and we are very grateful to have a support.
