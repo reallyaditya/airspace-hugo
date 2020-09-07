@@ -5,8 +5,8 @@ banner:
   bg_overlay: true
   title: The local market at your reach !
   content:
-     "Contini connects the product and services from the different islands in the Indian Ocean :
-     Reunion Island - Mauritius - Seychelles -Madagascar - Rodrigues - Mayotte - Comores"
+    "Contini connects the product and services from the different islands in the Indian Ocean :
+    Reunion Island - Mauritius - Seychelles -Madagascar - Rodrigues - Mayotte - Comores"
   button:
     enable: true
     label: "Disover our products"
@@ -21,20 +21,19 @@ about:
     - Homemade
     - Social
     - Eco-Friendly
-  content:
-    The C&N Agency of Reunion Islands proposes the products and services of all the Islands of the Indian Ocean.
+  content: The C&N Agency of Reunion Islands proposes the products and services of all the Islands of the Indian Ocean.
   image: images/about.jpg
 portfolio:
   enable: true
   bg_image: images/idee-1.jpg
   title: "WE BELIEVE IN YOUR IDEAS! "
   content:
-      "We believe in craftsmanship and we will do to our maximum to face the challenge of being the 
-      first e-commerce dedicated to craftsmanship.
-    \n\nHomemade needs to be put at the forefront. All our talents should have the ability to 
+    "We believe in craftsmanship and we will do to our maximum to face the challenge of being the
+    first e-commerce dedicated to craftsmanship.
+    \n\nHomemade needs to be put at the forefront. All our talents should have the ability to
     express themselve freely.\n\nCreation is a magnificent endeavour and needs to be seen and heard.
     \n\nBuying an artisanal product is to invest in the value of time, which will never come back, but will forever be imprinted
-     in the fabrics of a unique object."
+    in the fabrics of a unique object."
   button:
     enable: true
     label: View Works
@@ -42,14 +41,12 @@ portfolio:
 service:
   enable: true
   title: "Our Services"
-  description:
-    We are a team of expert in corporate branding and propose to boost your visibily with our various services. We are an available team and are proving ourself in the local market with multiple events for the entire year that would help craftsmen showcase their creations.
+  description: We are a team of expert in corporate branding and propose to boost your visibily with our various services. We are an available team and are proving ourself in the local market with multiple events for the entire year that would help craftsmen showcase their creations.
 cta:
   enable: true
   bg_image: images/valeur-1.jpg
-  title: Nos Valeurs
-  content:
-    Union – passion – Respect
+  title: Our Values
+  content: Union – Passion – Respect
   button:
     enable: true
     label: Share our values
@@ -57,8 +54,7 @@ cta:
 funfacts:
   enable: true
   title: Some interesting figures
-  description:
-    Our expertise at your service
+  description: Our expertise at your service
   funfact_item:
     - icon: ion-ios-chatboxes-outline
       name: Coffee
@@ -73,25 +69,21 @@ funfacts:
       name: Collaborations
       count: "30"
   testimonial_slider:
-    - name: 
+    - name:
       image: images/clients/avater-1.jpg
       designation: CEO
-      content:
-        We do our best to do an impeccable work
-    - name: 
+      content: We do our best to do an impeccable work
+    - name:
       image: images/clients/avater-1.jpg
       designation: CEO-Themefisher
-      content:
-        The C&amp;N agency worries about the good development of the project leaders and of the entrepreneurs.
-        
-    - name: 
-      image: images/clients/avater-3.jpg
-      designation: CEO-Themefisher
-      content:
-        Everything has been put in place so as to bring solutions to your daily needs
+      content: The C&amp;N agency worries about the good development of the project leaders and of the entrepreneurs.
 
-    - name: 
+    - name:
       image: images/clients/avater-3.jpg
       designation: CEO-Themefisher
-      content:
-          Everyday we make important decisions and we are very grateful to have a support.
+      content: Everything has been put in place so as to bring solutions to your daily needs
+
+    - name:
+      image: images/clients/avater-3.jpg
+      designation: CEO-Themefisher
+      content: Everyday we make important decisions and we are very grateful to have a support.
