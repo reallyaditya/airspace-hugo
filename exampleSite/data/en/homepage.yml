@@ -43,9 +43,7 @@ service:
   enable: true
   title: "Our Services"
   description:
-
     We are a team of expert in corporate branding and propose to boost your visibily with our various services. We are an available team and are proving ourself in the local market with multiple events for the entire year that would help craftsmen showcase their creations.
-
 cta:
   enable: true
   bg_image: images/valeur-1.jpg

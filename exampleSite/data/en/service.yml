@@ -34,10 +34,8 @@ featured_service:
 service:
   enable: true
   title: Our Services
-  description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate
-    soluta corporis odit, optio cum! Accusantium numquam ab, natus excepturi architecto
-    earum ipsa aliquam, illum, omnis rerum, eveniet officia nihil. Eum quod iure nulla,
-    soluta architecto distinctio. '
+  description: '    We are a team of expert in corporate branding and propose to boost your visibily with our various services. We are an available team and are proving ourself in the local market with multiple events for the entire year that would help craftsmen showcase their creations.
+'
   service_item:
   - icon: ion-coffee
     name: Branding
