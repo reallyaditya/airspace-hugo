@@ -1,9 +1,9 @@
 ---
-title: Madagascar
+title: Reunion Island
 description: this is meta description
-image: "/images/madagascar-4587230_1280.jpg"
-bg_image: "/images/img-20190801-wa0004-1.jpg"
-category: " Arts & crafts"
+image: "/images/reunion-1.jpeg"
+bg_image: "/images/reunion-1.jpeg"
+category: Training
 information:
 - label: Client
   info: Jannie Kelonsky
@@ -19,7 +19,7 @@ information:
   info: Jannie Kelonsky
 
 ---
-## Madagascar
+## Reunion Island
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus
 reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate

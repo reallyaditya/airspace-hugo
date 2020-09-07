@@ -1,9 +1,9 @@
 ---
-title: Reunion Island
+title: Mauritius
 description: this is meta description
-image: "/images/reunion-1.jpg"
-bg_image: "/images/img-20190801-wa0004-1.jpg"
-category: Training
+image: "/images/mauritius-1.jpeg"
+bg_image: "/images/mauritius-2.jpeg"
+category: " Arts & crafts"
 information:
 - label: Client
   info: Jannie Kelonsky
@@ -19,7 +19,7 @@ information:
   info: Jannie Kelonsky
 
 ---
-## Reunion Island 
+## Mauritius
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus
 reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate

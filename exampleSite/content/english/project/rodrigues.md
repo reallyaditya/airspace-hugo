@@ -1,8 +1,8 @@
 ---
 title: Rodrigues Island
 description: this is meta description
-image: "/images/sea-5046730_1280.jpg"
-bg_image: "/images/img-20190801-wa0004-1.jpg"
+image: "/images/rodrigues-1.jpeg"
+bg_image: "/images/rodrigues-2.jpeg"
 category: " Arts & crafts"
 information:
 - label: Client

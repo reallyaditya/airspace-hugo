@@ -1,9 +1,9 @@
 ---
-title: Seychelles
+title: Madagascar
 description: this is meta description
-image: "/images/seychelles-1.jpg"
-bg_image: "/images/img-20190801-wa0004-1.jpg"
-category: Video
+image: "/images/madagascar-1.jpeg"
+bg_image: "/images/madagascar-2.jpeg"
+category: " Arts & crafts"
 information:
 - label: Client
   info: Jannie Kelonsky
@@ -19,7 +19,7 @@ information:
   info: Jannie Kelonsky
 
 ---
-## Seychelles
+## Madagascar
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus
 reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate

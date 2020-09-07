@@ -1,29 +1,24 @@
-+++
-bg_image = "/images/img-20190801-wa0004-1.jpg"
-category = "Video"
-description = "this is meta description"
-image = "/images/grande-comore.jpg"
-title = "Grande Comore & Mayotte"
-[[information]]
-info = "Jannie Kelonsky"
-label = "Client"
-[[information]]
-info = "Website Redesign"
-label = "What We Did"
-[[information]]
-info = "Photoshop,Illustrator"
-label = "Tools Used"
-[[information]]
-info = "17th March 2014"
-label = "Completed on"
-[[information]]
-info = "HTML5 / PHP / CSS3"
-label = "Skills"
-[[information]]
-info = "Jannie Kelonsky"
-label = "Client"
+---
+title : "Grande Comore & Mayotte"
+description : "this is meta description"
+image : "/images/mayotte-1.jpeg"
+bg_image : "/images/mayotte-2.jpeg"
+category : "Video"
+information:
+- label: Client
+  info: Jannie Kelonsky
+- label: What We Did
+  info: Website Redesign
+- label: Tools Used
+  info: Photoshop,Illustrator
+- label: Completed on
+  info: 17th March 2014
+- label: Skills
+  info: HTML5 / PHP / CSS3
+- label: Client
+  info: Jannie Kelonsky
 
-+++
+---
 ## Grande Comore & Mayotte
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus
