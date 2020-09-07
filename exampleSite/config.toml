@@ -4,69 +4,127 @@ disqusShortname = ""
 paginate = "4"
 summaryLength = "30"
 theme = "airspace-hugo"
-title = "Strong Islands"
+title = "Contini"
+#  English Config
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 [StrongIslands](http://strongsislands.com/) All Rights Reserved"
+copyright = "Copyright &copy; 2020 [Contini](http://contini.com/) All Rights Reserved"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
+#  English Footer
+[[Languages.en.menu.footer]]
+URL = "contact"
+name = "Contact"
+weight = 5
+[[Languages.en.menu.footer]]
+URL = "https://www.lexpressproperty.com/en/"
+name = "Services"
+weight = 4
+[[Languages.en.menu.footer]]
+URL = "https://www.amazon.com"
+name = "Products"
+weight = 3
+[[Languages.en.menu.footer]]
+URL = "project"
+name = "Projects"
+weight = 2
+[[Languages.en.menu.footer]]
+URL = "about"
+name = "About"
+weight = 1
+# English Main menu
+[[Languages.en.menu.main]]
+URL = "https://www.amazon.com"
+name = "Products"
+parent = "Shop"
+weight = 1
+[[Languages.en.menu.main]]
+URL = "https://www.lexpressproperty.com/en/"
+name = "Services"
+parent = "Shop"
+weight = 2
+[[Languages.en.menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 4
+[[Languages.en.menu.main]]
+hasChildren = true
+name = "Shop"
+weight = 3
+[[Languages.en.menu.main]]
+URL = "project"
+name = "Projects"
+weight = 2
+[[Languages.en.menu.main]]
+URL = "about"
+name = "About"
+weight = 1
+# French Config
 [Languages.fr]
 contentDir = "content/french"
-copyright = "Copyright &copy; 2020 [StrongIslands](http://strongsislands.com/) All Rights Reserved"
+copyright = "Copyright &copy; 2020 [Contini](http://contini.com/) All Rights Reserved"
 home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
-[[menu.footer]]
-URL = "contact"
-name = "Contact"
-weight = 5
-[[menu.footer]]
-URL = "https://www.lexpressproperty.com/en/"
-name = "Services"
-weight = 4
-[[menu.footer]]
-URL = "https://www.amazon.com"
-name = "Products"
-weight = 3
-[[menu.footer]]
-URL = "project"
-name = "Project"
-weight = 2
-[[menu.footer]]
+#  French footer
+[[Languages.fr.menu.footer]]
+name = "À Propos"
 URL = "about"
-name = "About"
 weight = 1
-[[menu.main]]
+
+[[Languages.fr.menu.footer]]
+name = "Projets"
+URL = "project"
+weight = 2
+
+[[Languages.fr.menu.footer]]
+name = "Produits"
+URL = "https://www.amazon.fr/"
+weight = 3
+
+[[Languages.fr.menu.footer]]
+name = "Services"
+URL = "https://www.lexpressproperty.com/fr/"
+weight = 4
+
+[[Languages.fr.menu.footer]]
+name = "Contact"
+URL = "contact"
+weight = 6
+
+# French Main menu
+[[Languages.fr.menu.main]]
 URL = "https://www.amazon.com"
-name = "Products"
-parent = "Shop"
+name = "Produits"
+parent = "Boutique"
 weight = 1
-[[menu.main]]
+[[Languages.fr.menu.main]]
 URL = "https://www.lexpressproperty.com/en/"
 name = "Services"
-parent = "Shop"
+parent = "Boutique"
 weight = 2
-[[menu.main]]
+[[Languages.fr.menu.main]]
 URL = "contact"
 name = "Contact"
 weight = 4
-[[menu.main]]
+[[Languages.fr.menu.main]]
 hasChildren = true
-name = "Shop"
+name = "Boutique"
 weight = 3
-[[menu.main]]
+[[Languages.fr.menu.main]]
 URL = "project"
-name = "Project"
+name = "Projets"
 weight = 2
-[[menu.main]]
+[[Languages.fr.menu.main]]
 URL = "about"
-name = "About"
+name = "À propos"
 weight = 1
+
 [params]
-author = "Themefisher"
+author = "Nu!"
 contact_form_action = "#"
 description = "This is meta description"
 email = "demo@email.com"
