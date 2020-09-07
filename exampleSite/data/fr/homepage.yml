@@ -5,17 +5,17 @@ banner:
   bg_overlay: true
   title: Le Marché local à votre portée !
   content:
-    "Contini connecte les produits et services des différentes iles de l’Océan Indien : 
-La Réunion – Maurice – Seychelles – Madagascar – Rodrigue – Mayotte – Comores"
+"Contini connects the product and services from the different islands in the Indian Ocean :
+Reunion Island - Mauritius - Seychelles -Madagascar - Rodrigues - Mayotte - Comores"
   button:
     enable: true
-    label: "Découvrez notre produits "
+    label: "Disover our produit"
     link: https://www.amazon.com/
 about:
   enable: true
-  title: Qui sommes-nous ?
+  title: Who are we ?
   description: |
-    Nos îles, nos richesses, nos talents donnent vie à cette plateforme qui permet d’avoir accès à un commerce attacher à des valeurs tel que:
+    Our Island, our wealth, nos talents donnent vie à cette plateforme qui permet d’avoir accès à un commerce attacher à des valeurs tel que:
     - L’éthique
     - Commerce équitable
     - Fait-Main
@@ -50,12 +50,7 @@ cta:
   bg_image: images/valeur-1.jpg
   title: Nos Valeurs
   content:
-<<<<<<< HEAD
-      "L’union – passion – Respect"
-
-=======
     L’union – passion – Respect
->>>>>>> 463751c87a0b8039bf8203371642a0d9362b8982
   button:
     enable: true
     label: Partagez Vos Valeurs
