@@ -61,10 +61,10 @@ funfacts:
     Our expertise at your service
   funfact_item:
     - icon: ion-ios-chatboxes-outline
-      name: Cafés
+      name: Coffee
       count: "20"
     - icon: ion-ios-glasses-outline
-      name: Produits Vendus
+      name: Products sold
       count: "10"
     - icon: ion-ios-compose-outline
       name: Projects Completed
