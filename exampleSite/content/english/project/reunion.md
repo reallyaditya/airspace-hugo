@@ -5,46 +5,24 @@ image: "/images/reunion-1.jpeg"
 bg_image: "/images/reunion-1.jpeg"
 category: Training
 information:
-- label: Client
-  info: Jannie Kelonsky
-- label: What We Did
-  info: Website Redesign
-- label: Tools Used
-  info: Photoshop,Illustrator
-- label: Completed on
-  info: 17th March 2014
-- label: Skills
-  info: HTML5 / PHP / CSS3
-- label: Client
-  info: Jannie Kelonsky
+- label: Capital
+  info: Saint-Denis
+- label: Population
+  info: 859,959
+- label: Area
+  info: 2,511 km2
 
 ---
 ## Reunion Island
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus
-reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate
-at provident soluta consequatur.
+Réunion (French: La Réunion [la ʁe.y.njɔ̃] (About this soundlisten); previously Île Bourbon) is an overseas department and region of the French Republic and an island in the Indian Ocean, east of Madagascar and 175 km (109 mi) southwest of Mauritius. As of January 2020, it had a population of 859,959.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quibusdam sed, neque recusandae, est
-odit. A facere tempore soluta laborum.
+As in France, the official language is French. In addition, the majority of the region's population speaks Réunion Creole.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, rem eaque facilis. Sit, voluptas?
-Error soluta odio, harum tenetur, alias in iure ipsam blanditiis illo, ratione, magnam a minima incidunt!
-Suscipit facilis, ut maxime libero necessitatibus, rerum aut voluptates aliquam maiores iusto qui
-temporibus nesciunt, incidunt in quasi. Veniam aliquid ea aperiam, obcaecati voluptate ab, temporibus
-fugiat at, inventore molestiae quibusdam, modi numquam debitis libero aut eum. Architecto sit quia quidem
-odit, quasi eveniet reprehenderit rerum dolorem voluptate sed aspernatur numquam enim, adipisci iste optio
-ea libero laboriosam praesentium aperiam nobis vero tempore consequuntur sapiente eos at. Suscipit quis
-voluptatibus temporibus dolore consectetur ex excepturi adipisci sunt. Maxime aperiam eos illum minima
-aliquid voluptate autem qui at impedit recusandae earum possimus, alias, maiores sint, sed quia quis aut
-cupiditate voluptatem reiciendis. Facilis nobis assumenda totam officiis dicta autem dolorem quidem
-similique, delectus rerum laborum veritatis, cum magnam dignissimos necessitatibus possimus error, eius
-omnis veniam culpa, porro officia adipisci exercitationem minus hic. Ipsum veritatis repudiandae nulla quo
-dicta voluptates tenetur mollitia perferendis sequi, magnam doloremque odit similique, sit, voluptas unde
-iste molestias. Accusantium, corporis quibusdam quod in animi earum alias autem ipsum. Eaque rem numquam
-delectus veniam commodi doloribus consequatur deleniti?
+Administratively, Réunion is one of the overseas departments of France. Like the other four overseas departments, it is also one of the 18 regions of France, with the modified status of overseas region, and an integral part of the republic with the same status as Metropolitan France. Réunion is an outermost region of the European Union and, as an overseas department of France, part of the eurozone.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores neque vero quasi quisquam atque in,
-libero ab sunt eius! Nesciunt laboriosam alias corporis sit accusantium voluptate sapiente debitis quos
-mollitia saepe maxime ipsum facilis dolore voluptas inventore veniam deleniti, eligendi harum aperiam iusto
-culpa? Delectus dolorum facere quasi iure explicabo?
+The island has been inhabited since the 16th century, when people from France and Madagascar settled there. Slavery was abolished on 20 December 1848 (a date celebrated yearly on the island), when the French Second Republic abolished slavery in the French colonies. Indentured workers continued to be brought to Réunion from South India, among other places, however. The island became an overseas department of France in 1946.
+
+
+An 1816 10-centime coin, Isle de Bourbon
+Not much is known of Réunion's history prior to the arrival of the Portuguese in the early 16th century. Arab traders were familiar with it by the name Dina Morgabin, "Western Island". The island is possibly featured on a map from 1153 AD by Al Sharif el-Edrisi.[citation needed] The island might also have been visited by Swahili or Austronesian (Ancient Indonesian–Malaysian) sailors on their journey to the west from the Malay Archipelago to Madagascar.

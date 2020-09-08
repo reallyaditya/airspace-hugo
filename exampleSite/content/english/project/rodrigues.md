@@ -5,46 +5,18 @@ image: "/images/rodrigues-1.jpeg"
 bg_image: "/images/rodrigues-2.jpeg"
 category: " Arts & crafts"
 information:
-- label: Client
-  info: Jannie Kelonsky
-- label: What We Did
-  info: Website Redesign
-- label: Tools Used
-  info: Photoshop,Illustrator
-- label: Completed on
-  info: 17th March 2014
-- label: Skills
-  info: HTML5 / PHP / CSS3
-- label: Client
-  info: Jannie Kelonsky
+- label: Capital
+  info: Port Mathurin
+- label: Population
+  info: 41,669
+- label: Area
+  info: 108 km2
 
 ---
 ## Rodrigues Island
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus
-reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate
-at provident soluta consequatur.
+Rodrigues (French: Île Rodrigues [ʁɔdʁiɡ]; Creole: Rodrig) is a 108-square-kilometre (42 sq mi) autonomous outer island of the Republic of Mauritius in the Indian Ocean, about 560 kilometres (350 mi) east of Mauritius. It is part of the Mascarene Islands which include Mauritius and Réunion. It is of volcanic origin and is surrounded by coral reef, and just off its coast lie some tiny uninhabited islands. The island used to be the tenth District of Mauritius; it gained autonomous status on 10 December 2002, and it is governed by the Rodrigues Regional Assembly. The capital of the island is Port Mathurin.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quibusdam sed, neque recusandae, est
-odit. A facere tempore soluta laborum.
+Its inhabitants are Mauritian citizens. As of 2014, the island's population was about 41,669, according to Statistics Mauritius. Most of the inhabitants are of mixed African and European descent. Its economy is based mainly on fishing, farming, handicraft and a developing tourism sector.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, rem eaque facilis. Sit, voluptas?
-Error soluta odio, harum tenetur, alias in iure ipsam blanditiis illo, ratione, magnam a minima incidunt!
-Suscipit facilis, ut maxime libero necessitatibus, rerum aut voluptates aliquam maiores iusto qui
-temporibus nesciunt, incidunt in quasi. Veniam aliquid ea aperiam, obcaecati voluptate ab, temporibus
-fugiat at, inventore molestiae quibusdam, modi numquam debitis libero aut eum. Architecto sit quia quidem
-odit, quasi eveniet reprehenderit rerum dolorem voluptate sed aspernatur numquam enim, adipisci iste optio
-ea libero laboriosam praesentium aperiam nobis vero tempore consequuntur sapiente eos at. Suscipit quis
-voluptatibus temporibus dolore consectetur ex excepturi adipisci sunt. Maxime aperiam eos illum minima
-aliquid voluptate autem qui at impedit recusandae earum possimus, alias, maiores sint, sed quia quis aut
-cupiditate voluptatem reiciendis. Facilis nobis assumenda totam officiis dicta autem dolorem quidem
-similique, delectus rerum laborum veritatis, cum magnam dignissimos necessitatibus possimus error, eius
-omnis veniam culpa, porro officia adipisci exercitationem minus hic. Ipsum veritatis repudiandae nulla quo
-dicta voluptates tenetur mollitia perferendis sequi, magnam doloremque odit similique, sit, voluptas unde
-iste molestias. Accusantium, corporis quibusdam quod in animi earum alias autem ipsum. Eaque rem numquam
-delectus veniam commodi doloribus consequatur deleniti?
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores neque vero quasi quisquam atque in,
-libero ab sunt eius! Nesciunt laboriosam alias corporis sit accusantium voluptate sapiente debitis quos
-mollitia saepe maxime ipsum facilis dolore voluptas inventore veniam deleniti, eligendi harum aperiam iusto
-culpa? Delectus dolorum facere quasi iure explicabo?
+The island (together with Agaléga and Saint Brandon) forms part of the larger territory of the Republic of Mauritius with the President as head of state and the Chief Commissioner as head of government.
