@@ -9,7 +9,7 @@ banner:
     La Réunion – Maurice – Seychelles – Madagascar – Rodrigue – Mayotte – Comores"
   button:
     enable: true
-    label: "Découvrez notre produits "
+    label: "Découvrez nos service "
     link: https://www.amazon.com/
 about:
   enable: true
@@ -36,7 +36,7 @@ portfolio:
     reviens pas et qui restera graver un objet unique. "
   button:
     enable: true
-    label: View Works
+    label: Voir Projects
     link: project
 service:
   enable: true

@@ -9,7 +9,7 @@ banner:
     Reunion Island - Mauritius - Seychelles -Madagascar - Rodrigues - Mayotte - Comores"
   button:
     enable: true
-    label: "Disover our products"
+    label: "Discover our services"
     link: https://www.amazon.com/
 about:
   enable: true
