@@ -1,12 +1,12 @@
 ---
 banner:
   enable: true
-  bg_image: images/sea.jpg
+  bg_image: images/homepage.jpeg
   bg_overlay: true
   title: Le Marché local à votre portée !
   content:
-     "Contini connecte les produits et services des différentes iles de l’Océan Indien : 
-     La Réunion – Maurice – Seychelles – Madagascar – Rodrigue – Mayotte – Comores"
+    "Contini connecte les produits et services des différentes iles de l’Océan Indien :
+    La Réunion – Maurice – Seychelles – Madagascar – Rodrigue – Mayotte – Comores"
   button:
     enable: true
     label: "Découvrez notre produits "
@@ -21,12 +21,11 @@ about:
     - Fait-Main
     - Social
     - Ecoresponsable
-  content:
-    L’Agence C&N de l’île de la Réunion vous proposent les produits et services des iles de l’Océan Indien.
+  content: L’Agence C&N de l’île de la Réunion vous proposent les produits et services des iles de l’Océan Indien.
   image: images/about.jpg
 portfolio:
   enable: true
-  bg_image: images/idee-1.jpg
+  bg_image: images/homepage-2.jpeg
   title: "NOUS CROYONS EN VOS IDEES ! "
   content:
     "Nous croyons en l’artisanat, et nous ferons tout ce qui est dans nos capacité pour
@@ -49,8 +48,7 @@ cta:
   enable: true
   bg_image: images/valeur-1.jpg
   title: Nos Valeurs
-  content:
-    L’union – passion – Respect
+  content: L’union – passion – Respect
   button:
     enable: true
     label: Partagez Vos Valeurs
@@ -58,8 +56,7 @@ cta:
 funfacts:
   enable: true
   title: Quelques chiffres interessants
-  description:
-    Notre expertise à votre service.
+  description: Notre expertise à votre service.
   funfact_item:
     - icon: ion-ios-chatboxes-outline
       name: Cafés
@@ -74,28 +71,27 @@ funfacts:
       name: Collaborations
       count: "30"
   testimonial_slider:
-    - name: 
+    - name:
       image: images/clients/avater-1.jpg
       designation: CEO
-      content:
-        Nous nous efforçons d’être les meilleurs et de faire un travail formidable
-    - name: 
+      content: Nous nous efforçons d’être les meilleurs et de faire un travail formidable
+    - name:
       image: images/clients/avater-1.jpg
       designation: CEO-Themefisher
       content:
         L’Agence C&amp;N se préoccupe du bon développement des porteurs de
         projets et des entrepreneurs
-        
-    - name: 
+
+    - name:
       image: images/clients/avater-3.jpg
       designation: CEO-Themefisher
       content:
         Tout est mis en œuvre afin de vous apporter les solutions à vos besoins
         du quotidien.
 
-    - name: 
+    - name:
       image: images/clients/avater-3.jpg
       designation: CEO-Themefisher
       content:
-          Tous les jours nous sommes face à des choix importants et se sentir
-          accompagner et une grâce indéniable.
+        Tous les jours nous sommes face à des choix importants et se sentir
+        accompagner et une grâce indéniable.
