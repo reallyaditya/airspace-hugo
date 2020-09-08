@@ -10,7 +10,7 @@
     <div class="row">
       <div class="col-md-12">
         <div class="block">
-          <div class="portfolio-menu">
+          <!-- <div class="portfolio-menu">
             <div class="btn-group btn-group-toggle justify-content-center" data-toggle="buttons">
               <label class="btn btn-sm btn-primary active">
                 <input type="radio" name="shuffle-filter" value="all" checked="checked">{{ i18n "all" }}
@@ -25,10 +25,11 @@
               </label>
               {{ end }}
             </div>
-          </div>
+          </div> -->
           <div class="row shuffle-wrapper">
             {{ range .Data.Pages }}
-            <div class="col-md-4 portfolio-item shuffle-item" data-groups="[&quot;{{ .Params.Category | urlize }}&quot;]">
+            <div class="col-md-4 portfolio-item shuffle-item"
+              data-groups="[&quot;{{ .Params.Category | urlize }}&quot;]">
               <img src="{{ .Params.Image | relURL }}" alt="{{ .Title }}">
               <div class="portfolio-hover">
                 <div class="portfolio-content">
