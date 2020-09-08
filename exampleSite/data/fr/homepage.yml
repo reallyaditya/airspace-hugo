@@ -10,7 +10,7 @@ banner:
   button:
     enable: true
     label: "Découvrez nos service "
-    link: https://www.amazon.com/
+    link: http://cynthiacontiniconsulting.com/
 about:
   enable: true
   title: Qui sommes-nous ?
@@ -25,7 +25,7 @@ about:
   image: images/about.jpg
 portfolio:
   enable: true
-  bg_image: images/homepage-2.jpeg
+  bg_image: images/homepage-4.jpg
   title: "NOUS CROYONS EN VOS IDEES ! "
   content:
     "Nous croyons en l’artisanat, et nous ferons tout ce qui est dans nos capacité pour
@@ -36,7 +36,7 @@ portfolio:
     reviens pas et qui restera graver un objet unique. "
   button:
     enable: true
-    label: Voir Projects
+    label: Voir Projets
     link: project
 service:
   enable: true

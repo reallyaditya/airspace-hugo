@@ -10,7 +10,7 @@ banner:
   button:
     enable: true
     label: "Discover our services"
-    link: https://www.amazon.com/
+    link: http://cynthiacontiniconsulting.com/
 about:
   enable: true
   title: Who are we ?
