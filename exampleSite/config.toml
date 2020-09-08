@@ -19,7 +19,7 @@ URL = "contact"
 name = "Contact"
 weight = 5
 [[Languages.en.menu.footer]]
-URL = "https://www.lexpressproperty.com/en/"
+URL = "http://cynthiacontiniconsulting.com/"
 name = "Services"
 weight = 4
 [[Languages.en.menu.footer]]
@@ -41,7 +41,7 @@ name = "Products"
 parent = "Shop"
 weight = 1
 [[Languages.en.menu.main]]
-URL = "https://www.lexpressproperty.com/en/"
+URL = "http://cynthiacontiniconsulting.com/"
 name = "Services"
 parent = "Shop"
 weight = 2
@@ -102,7 +102,7 @@ name = "Produits"
 parent = "Boutique"
 weight = 1
 [[Languages.fr.menu.main]]
-URL = "https://www.lexpressproperty.com/en/"
+URL = "http://cynthiacontiniconsulting.com/"
 name = "Services"
 parent = "Boutique"
 weight = 2
