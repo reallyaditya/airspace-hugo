@@ -5,22 +5,22 @@ banner:
   bg_overlay: true
   title: Le Marché local à votre portée !
   content:
-    "Contini connecte les produits et services des différentes iles de l’Océan Indien :
-    La Réunion – Maurice – Seychelles – Madagascar – Rodrigue – Mayotte – Comores"
+    "Contini connecte les produits et services des différentes iles de l’Océan Indien:
+    La Réunion – Maurice – Seychelles – Madagascar – Rodrigues – Mayotte – Comores"
   button:
     enable: true
-    label: "Découvrez nos service "
+    label: "Découvrez nos services"
     link: http://cynthiacontiniconsulting.com/
 about:
   enable: true
   title: Qui sommes-nous ?
   description: |
-    Nos îles, nos richesses, nos talents donnent vie à cette plateforme qui permet d’avoir accès à un commerce attacher à des valeurs tel que:
+    Nos îles, nos richesses, notre identité et nos talents donnent vie à cette plateforme qui permet d’avoir accès à un commerce attacher à des valeurs telles que:
     - L’éthique
-    - Commerce équitable
-    - Fait-Main
-    - Social
-    - Ecoresponsable
+    - Le commerce équitable
+    - Les produits Fait-Main
+    - Le social
+    - L'ecoresponsable
   content: L’Agence C&N de l’île de la Réunion vous proposent les produits et services des iles de l’Océan Indien.
   image: images/about.jpg
 portfolio:
@@ -28,12 +28,13 @@ portfolio:
   bg_image: images/homepage-4.jpg
   title: "NOUS CROYONS EN VOS IDEES ! "
   content:
-    "Nous croyons en l’artisanat, et nous ferons tout ce qui est dans nos capacité pour
-    relever ce défi qui est d’être la première plateforme e-commerce dédier aux artisans.
-    \n\nLe Fait-Main, mérite d’être mise au premier rang. Tous les talents doivent pouvoir
-    s’exprimer librement et pouvoir vivre de leur passion.\n\nLa créativité est magnifique
-    et mérite d’être vue.\n\nAcheter un produit artisanal c’est s’offrir le temps qui ne
-    reviens pas et qui restera graver un objet unique. "
+    "Nous croyons en l’artisanat et dans la capacité des producteurs pays! C'est pour cela que nous faisons au mieux de nos capacités pour
+    relever le défi qui est: d’être LA première plateforme e-commerce dédier aux artisans.
+    \n\nLe Fait-Main, mérite d’être mis au premier rang car cela représente beaucoup plus qu'un produit fini.
+    L'artisan transmet dans son produit ses valeurs, son savoir-faire, son amour et Contini a pour mission de permettre
+    l'expansion des créateurs artisans et d'etre une vitrine dans la région.\n\nEn effet, la créativité est magnifique
+    et mérite d’être vue, d'être respecter et de traverser les frontières.\n\nAcheter un produit artisanal c’est s’offrir le temps qui ne
+    reviens pas et de permettre à faire vivre ceux qui, sur des générations, ont su transmettre des valeurs contre vents et marrées. "
   button:
     enable: true
     label: Voir Projets
@@ -48,7 +49,7 @@ cta:
   enable: true
   bg_image: images/valeur-1.jpg
   title: Nos Valeurs
-  content: L’union – passion – Respect
+  content: L’Union – La Passion – Le Respect
   button:
     enable: true
     label: Partagez Vos Valeurs

@@ -2,16 +2,19 @@
 about:
   enable: true
   image: images/company/about.jpg
-  title: Des passionnées,
+  title: Nous sommes des passionnés !
   content: |
-    Nos îles, nos richesses, nos talents donnent vie à cette plateforme qui permet d’avoir accès à un commerce attacher à des valeurs tel que:
+    C'est parce que nous croyons en vous que nous nous investisons ! Nos îles, nos richesses, nos talents donnent vie à cette plateforme qui permet d’avoir accès à un commerce attacher à des valeurs telles que:
+
     * L’éthique
     * Commerce équitable
     * Fait-Main
     * Social
     * Ecoresponsable
 
-    L’Agence C&amp;N de l’île de la Réunion vous proposent les produits et services des iles de l’Océan Indien.
+    L’Agence C&amp;N de l’île de la Réunion vous proposent les produits et services des iles de l’Océan Indien. Dans un but
+    d'etendre le savoir faire local dans la région, nous mettons non seulement une plateforme à votre disposition mais aussi
+    tout un plan d'accompagnement et de suivi tailler sur messure pour votre secteur d'activité.
 
   button:
     enable: true
@@ -68,8 +71,8 @@ mission_vision:
   tabs:
     - name: La Vision
       content:
-        Nous avons commencé avec des valeurs communes qui ont fédérer un réseau de qualité dont nous
-        sommes fières aujourd’hui La Vision qui nous poussent chaque jour à aller de l’avant c’est que nous
+        Nous avons commencé avec des valeurs communes qui ont fédérés un réseau de qualité dont nous
+        sommes fières aujourd’hui. La Vision qui nous poussent chaque jour à aller de l’avant c’est que nous
         croyons dans le potentiel de chacun et grâce à notre expérience nous souhaitons créer à terme un
         commerce aligné à nos valeurs et en accord avec notre monde d’aujourd’hui.
     - name: La Mission
@@ -77,8 +80,8 @@ mission_vision:
         Rassembler les acteurs économiques locaux et les personnes qui partagent nos valeurs pour
         avancées et évoluer ensemble.
     - name: L'Approche
-      content: Notre réseau est notre force,
-        L’Arts est passion et la passion créer l’Arts. Nous sommes des bâtisseurs engagé et respectueux de
+      content: Notre force, votre savoir faire et notre réseau !
+        L’Art est passion et la passion créer l’Art. Nous sommes des bâtisseurs engagés et respectueux de
         chaque porteur de projet
 cta:
   enable: true

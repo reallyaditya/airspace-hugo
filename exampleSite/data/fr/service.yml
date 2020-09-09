@@ -39,10 +39,11 @@ service:
   enable: true
   title: "Nos Services"
   description:
-    "Booste ta visibilité avec une équipe d’expert en image de marque qui
-    vous proposent différents services. Une équipe disponible qui fait ces preuves sur
-    le marché local avec des événements tout au long de l’année qui permet aux artisans
-    d’exposer leurs créations."
+    "Boostez votre visibilité dans la région Sud-Ouest de l'océan Indien avec une équipe d’experts en image de marque qui
+    vous proposent différents services. Notre force et expertise réside sur la connaissance du
+    marché local avec des événements tout au long de l’année qui permettent aux artisans
+    d’exposer leurs créations. Nous favorisons aussi un ecosystème qui encourage la relation de business inter-Îles afin d'atteindre
+    un marché plus étendu."
   service_item:
     - icon: ion-coffee
       name: Branding

@@ -1,18 +1,18 @@
 ---
 title: Seychelles
-description: this is meta description
+description: "Beauté et grandes possibilités."
 image: "/images/seychelles-1.jpeg"
 bg_image: "/images/seychelles-2.jpeg"
 category: Video
 information:
-- label: Capital
-  info: Victoria
-- label: Population
-  info: 97,096
-- label: Superficie
-  info: 459 km2
-
+  - label: Capital
+    info: Victoria
+  - label: Population
+    info: 97,096
+  - label: Superficie
+    info: 459 km2
 ---
+
 ## Seychelles
 
 Les Seychelles, en forme longue la république des Seychelles, en anglais Seychelles et Republic of Seychelles, en créole seychellois Sesel et Repiblik Sesel, est un archipel de 115 îles (dont une artificielle), situé dans l'ouest de l'océan Indien et rattaché au continent africain. Toutes ces îles sont regroupées en un État dont la capitale est la ville de Victoria sur l'île principale de Mahé.
