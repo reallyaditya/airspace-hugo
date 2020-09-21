@@ -5,8 +5,8 @@ banner:
   bg_overlay: true
   title: Le Marché local à votre portée !
   content:
-    "Contini connecte les produits et services des différentes iles de l’Océan Indien:
-    La Réunion – Maurice – Seychelles – Madagascar – Rodrigues – Mayotte – Comores"
+    "CONTINI connecte les produits et services des iles de l’Océan Indien :
+     Réunion – Maurice – Rodrigues – Madagascar – Seychelles – Mayotte – Comores"
   button:
     enable: true
     label: "Découvrez nos services"
@@ -14,27 +14,40 @@ banner:
 about:
   enable: true
   title: Qui sommes-nous ?
-  description: |
-    Nos îles, nos richesses, notre identité et nos talents donnent vie à cette plateforme qui permet d’avoir accès à un commerce attacher à des valeurs telles que:
-    - L’éthique
-    - Le commerce équitable
-    - Les produits Fait-Main
-    - Le social
-    - L'ecoresponsable
-  content: L’Agence C&N de l’île de la Réunion vous proposent les produits et services des iles de l’Océan Indien.
+  description:
+Ce concept a été attribuer et développer par **Contini Consulting** dont la Fondatrice est une jeune femme entrepreneure qui a fait ses débuts il y a 10 ans de cela.**Contini consulting veut promouvoir** le Patrimoine et les valeurs d’une économie circulaire, sociale et solidaire. 
+L’idée de ce concept est de valoriser tous les acteurs locaux.
+2020 à prouver au monde, d’où nous sommes locataire que la période COVID et POST COVID a donné un booste à la production locale malgré l’arrêt économique mondiale qui nous a affecté. 
+Nous avons dû nous tourner vers la production de proximité. La situation actuelle démontre que le concept **CONTINI** est une valeur ajoutée pour nous, nos enfants et les générations futurs.
+
+  content: La définition - (qui, quoi, ou, comment et quand).
+
+*Qui ? Cynthia Contini, La Fondatrice* 
+*Quoi ? Un commerce équitable* 
+*Pourquoi ? Pour valoriser les acteurs économique locaux*
+*Quand ? Une économie circulaire après la Covid-19, le post Covid à valoriser l’économie circulaire.*
+*Où ? Ile de la Réunion, Océan Indien et La Terre !
+
+La leçon que nous, habitant de cette Terre, avons pu retenir et apprise c’est que nos anciens cultivés déjà cette valeur avant le boom du développement technologique.
+« Ce concept innovant que jadis, nos anciens maitriser déjà » !
+
+ 
   image: images/about.jpg
 portfolio:
   enable: true
   bg_image: images/homepage-4.jpg
   title: "NOUS CROYONS EN VOS IDEES ! "
   content:
-    "Nous croyons en l’artisanat et dans la capacité des producteurs pays! C'est pour cela que nous faisons au mieux de nos capacités pour
-    relever le défi qui est: d’être LA première plateforme e-commerce dédier aux artisans.
-    \n\nLe Fait-Main, mérite d’être mis au premier rang car cela représente beaucoup plus qu'un produit fini.
-    L'artisan transmet dans son produit ses valeurs, son savoir-faire, son amour et Contini a pour mission de permettre
-    l'expansion des créateurs artisans et d'etre une vitrine dans la région.\n\nEn effet, la créativité est magnifique
-    et mérite d’être vue, d'être respecter et de traverser les frontières.\n\nAcheter un produit artisanal c’est s’offrir le temps qui ne
-    reviens pas et de permettre à faire vivre ceux qui, sur des générations, ont su transmettre des valeurs contre vents et marrées. "
+    "Nous croyons en l’artisanat et dans le savoir-faire des producteurs locaux !
+    C’est pour cela que nous avons créé, pour vous La première plateforme e-commerce dédiée aux artisans.
+    \n\nLe Fait-Main, mérite d’être vu tant au niveau local qu’international.
+    L’artisan transmet plus qu’un produit fini, il y met de son temps, de son amour, son histoire et son savoir-faire.
+    En effet, cette forme de créativité est magnifique et c’est pour cela que **CONTINI** vous donne les ressources nécessaires pour commercialiser vos produits.
+    \n\nOsez promouvoir vos créations au-delà de chez vous.
+    En effet, la créativité est magnifique et mérite d’être vu, d’être respecté et de traverser les frontières.
+    Les valeurs que nous portons, notre parcours ainsi que la nostalgie du temps d’avant nous motive à faire valoir un commerce équitable !
+    S’offrir un produit artisanal, c’est s’offrir une part du temps qui passe.
+    Un objet, une peinture…, qui résiste au temps et traverse les générations !"
   button:
     enable: true
     label: Voir Projets
@@ -49,7 +62,7 @@ cta:
   enable: true
   bg_image: images/valeur-1.jpg
   title: Nos Valeurs
-  content: L’Union – La Passion – Le Respect
+  content: L’union – La coopération – La créativité
   button:
     enable: true
     label: Partagez Vos Valeurs
@@ -72,27 +85,17 @@ funfacts:
       name: Collaborations
       count: "30"
   testimonial_slider:
-    - name:
+    - name: Msn Cake
       image: images/clients/avater-1.jpg
       designation: CEO
-      content: Nous nous efforçons d’être les meilleurs et de faire un travail formidable
-    - name:
-      image: images/clients/avater-1.jpg
-      designation: CEO-Themefisher
-      content:
-        L’Agence C&amp;N se préoccupe du bon développement des porteurs de
-        projets et des entrepreneurs
+      content: Des agents qui débordent de Professionnalisme, de passion pour ce métier, qui se plient en quatre pour vous satisfaire et qui sont exigeants envers eux-mêmes... et cela, je dois dire est assez rare. Alors il faut savoir l'apprécier...
+Ils savent reconnaître le fruit de travaux minutieux tout en respectant vos exigences ;
+Tous deux concourent à mettre en lumière les produits locaux & péï afin de faire perdurer les traditions, les savoirs faire & l’exotisme.
+D'une simplicité déconcertante, Cynthia & Charles savent vous mettre à l'honneur et sont très réactifs. 
+Ma collaboration avec eux se passe à merveille et pourvu (je l'espère en tout cas, inshAllah comme on dit) que cela perdure dans l'entente, la bonne humeur et que chacun puisse s'accomplir.
+Je suis sincèrement émue de l'opportunité qui m'a été offerte de travailler avec C & N qui ont des compétences à en revendre...
+Alors je dis du fond du cœur Bravo! Félicitations, Merci, Continuez,
+Continuons, Ensemble...
+Msn Cake @msncake_hennartist.
 
-    - name:
-      image: images/clients/avater-3.jpg
-      designation: CEO-Themefisher
-      content:
-        Tout est mis en œuvre afin de vous apporter les solutions à vos besoins
-        du quotidien.
 
-    - name:
-      image: images/clients/avater-3.jpg
-      designation: CEO-Themefisher
-      content:
-        Tous les jours nous sommes face à des choix importants et se sentir
-        accompagner et une grâce indéniable.

@@ -39,33 +39,19 @@ service:
   enable: true
   title: "Nos Services"
   description:
-    "Boostez votre visibilité dans la région Sud-Ouest de l'océan Indien avec une équipe d’experts en image de marque qui
-    vous proposent différents services. Notre force et expertise réside sur la connaissance du
-    marché local avec des événements tout au long de l’année qui permettent aux artisans
-    d’exposer leurs créations. Nous favorisons aussi un ecosystème qui encourage la relation de business inter-Îles afin d'atteindre
-    un marché plus étendu."
+    "La Plateforme CONTINI s’unit à l’expertise de Contini Consulting et de l’agence C&N, pour construire une image forte de l’artisan.
+    Souvent isolé et pris par ses activités, il bénéficie au travers de la plateforme d’un accompagnement sur mesure.
+    Notre force et expertise réside dans la connaissance de ce marché que nous connaissons particulièrement !
+    Oui car nous œuvrons chaque jour à son développement."
   service_item:
     - icon: ion-coffee
       name: Branding
-      content: Création de votre image d’entreprise
-    - icon: ion-compass
-      name: Web Design
-      content: Site vitrine et E-commerce
-    - icon: ion-image
-      name: App Design
-      content: Application mobile
-    - icon: ion-bug
-      name: Start Up
-      content: Conseil et accompagnement de projet
-    - icon: ion-headphone
-      name: Logo Design
-      content: Création de charte graphique
-    - icon: ion-leaf
+      content: Création de votre image de marqu    - icon: ion-leaf
       name: Developpement
-      content: Vous accompagne
+      content: Support de communication
     - icon: ion-earth
       name: Brand Identity
-      content: Création de la charte identitaire de votre enseigne
+      content: Stratégie à l’internationale
 
 cta:
   enable: true
