@@ -6,7 +6,7 @@ banner:
   title: Le Marché local à votre portée !
   content:
     "CONTINI connecte les produits et services des iles de l’Océan Indien :
-     Réunion – Maurice – Rodrigues – Madagascar – Seychelles – Mayotte – Comores"
+    Réunion – Maurice – Rodrigues – Madagascar – Seychelles – Mayotte – Comores"
   button:
     enable: true
     label: "Découvrez nos services"
@@ -15,23 +15,22 @@ about:
   enable: true
   title: Qui sommes-nous ?
   description:
-Ce concept a été attribuer et développer par **Contini Consulting** dont la Fondatrice est une jeune femme entrepreneure qui a fait ses débuts il y a 10 ans de cela.**Contini consulting veut promouvoir** le Patrimoine et les valeurs d’une économie circulaire, sociale et solidaire. 
-L’idée de ce concept est de valoriser tous les acteurs locaux.
-2020 à prouver au monde, d’où nous sommes locataire que la période COVID et POST COVID a donné un booste à la production locale malgré l’arrêt économique mondiale qui nous a affecté. 
-Nous avons dû nous tourner vers la production de proximité. La situation actuelle démontre que le concept **CONTINI** est une valeur ajoutée pour nous, nos enfants et les générations futurs.
+    "Ce concept a été attribuer et développer par **Contini Consulting** dont la Fondatrice est une jeune femme entrepreneure qui a fait ses débuts il y a 10 ans de cela.**Contini consulting veut promouvoir** le Patrimoine et les valeurs d’une économie circulaire, sociale et solidaire.
+    L’idée de ce concept est de valoriser tous les acteurs locaux.
+    2020 à prouver au monde, d’où nous sommes locataire que la période COVID et POST COVID a donné un booste à la production locale malgré l’arrêt économique mondiale qui nous a affecté.
+    Nous avons dû nous tourner vers la production de proximité. La situation actuelle démontre que le concept **CONTINI** est une valeur ajoutée pour nous, nos enfants et les générations futurs."
 
-  content: La définition - (qui, quoi, ou, comment et quand).
+  content: "La définition - (qui, quoi, ou, comment et quand).
 
-*Qui ? Cynthia Contini, La Fondatrice* 
-*Quoi ? Un commerce équitable* 
-*Pourquoi ? Pour valoriser les acteurs économique locaux*
-*Quand ? Une économie circulaire après la Covid-19, le post Covid à valoriser l’économie circulaire.*
-*Où ? Ile de la Réunion, Océan Indien et La Terre !
+    *Qui ? Cynthia Contini, La Fondatrice*
+    *Quoi ? Un commerce équitable*
+    *Pourquoi ? Pour valoriser les acteurs économique locaux*
+    *Quand ? Une économie circulaire après la Covid-19, le post Covid à valoriser l’économie circulaire.*
+    *Où ? Ile de la Réunion, Océan Indien et La Terre !
 
-La leçon que nous, habitant de cette Terre, avons pu retenir et apprise c’est que nos anciens cultivés déjà cette valeur avant le boom du développement technologique.
-« Ce concept innovant que jadis, nos anciens maitriser déjà » !
+    La leçon que nous, habitant de cette Terre, avons pu retenir et apprise c’est que nos anciens cultivés déjà cette valeur avant le boom du développement technologique.
+    « Ce concept innovant que jadis, nos anciens maitriser déjà » !"
 
- 
   image: images/about.jpg
 portfolio:
   enable: true
@@ -88,14 +87,13 @@ funfacts:
     - name: Msn Cake
       image: images/clients/avater-1.jpg
       designation: CEO
-      content: Des agents qui débordent de Professionnalisme, de passion pour ce métier, qui se plient en quatre pour vous satisfaire et qui sont exigeants envers eux-mêmes... et cela, je dois dire est assez rare. Alors il faut savoir l'apprécier...
-Ils savent reconnaître le fruit de travaux minutieux tout en respectant vos exigences ;
-Tous deux concourent à mettre en lumière les produits locaux & péï afin de faire perdurer les traditions, les savoirs faire & l’exotisme.
-D'une simplicité déconcertante, Cynthia & Charles savent vous mettre à l'honneur et sont très réactifs. 
-Ma collaboration avec eux se passe à merveille et pourvu (je l'espère en tout cas, inshAllah comme on dit) que cela perdure dans l'entente, la bonne humeur et que chacun puisse s'accomplir.
-Je suis sincèrement émue de l'opportunité qui m'a été offerte de travailler avec C & N qui ont des compétences à en revendre...
-Alors je dis du fond du cœur Bravo! Félicitations, Merci, Continuez,
-Continuons, Ensemble...
-Msn Cake @msncake_hennartist.
-
-
+      content:
+        Des agents qui débordent de Professionnalisme, de passion pour ce métier, qui se plient en quatre pour vous satisfaire et qui sont exigeants envers eux-mêmes... et cela, je dois dire est assez rare. Alors il faut savoir l'apprécier...
+        Ils savent reconnaître le fruit de travaux minutieux tout en respectant vos exigences ;
+        Tous deux concourent à mettre en lumière les produits locaux & péï afin de faire perdurer les traditions, les savoirs faire & l’exotisme.
+        D'une simplicité déconcertante, Cynthia & Charles savent vous mettre à l'honneur et sont très réactifs.
+        Ma collaboration avec eux se passe à merveille et pourvu (je l'espère en tout cas, inshAllah comme on dit) que cela perdure dans l'entente, la bonne humeur et que chacun puisse s'accomplir.
+        Je suis sincèrement émue de l'opportunité qui m'a été offerte de travailler avec C & N qui ont des compétences à en revendre...
+        Alors je dis du fond du cœur Bravo! Félicitations, Merci, Continuez,
+        Continuons, Ensemble...
+        Msn Cake @msncake_hennartist."

@@ -46,7 +46,8 @@ service:
   service_item:
     - icon: ion-coffee
       name: Branding
-      content: Création de votre image de marqu    - icon: ion-leaf
+      content: Création de votre image de marque
+    - icon: ion-leaf
       name: Developpement
       content: Support de communication
     - icon: ion-earth
