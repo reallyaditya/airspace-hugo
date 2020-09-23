@@ -1,18 +1,18 @@
 ---
-title : "Grande Comore & Mayotte"
-description : "this is meta description"
-image : "/images/mayotte-1.jpeg"
-bg_image : "/images/mayotte-2.jpeg"
-category : "Video"
+title: "Grande Comore & Mayotte"
+description: "Unity is strength !"
+image: "/images/mayotte-1.jpeg"
+bg_image: "/images/mayotte-2.jpeg"
+category: "Video"
 information:
-- label: Capital
-  info: Moroni
-- label: Population
-  info: 1,008,246
-- label: Area
-  info: 2,034 km2
-
+  - label: Capital
+    info: Moroni
+  - label: Population
+    info: 1,008,246
+  - label: Area
+    info: 2,034 km2
 ---
+
 ## Grande Comore & Mayotte
 
 The Comoro Islands or Comoros (Shikomori Komori; Arabic: جزر القمر‎, Juzur al-Qomor; French: Les Comores) form an archipelago of volcanic islands situated off the southeastern coast of Africa, to the east of Mozambique and northwest of Madagascar. The islands are politically divided between the Union of the Comoros (pop. 850,688) and two territories of France: the department of Mayotte (pop. 270,372) and the uninhabited Glorioso Islands, a part of the Scattered Islands in the Indian Ocean, the 5th district of the French Southern and Antarctic Lands.

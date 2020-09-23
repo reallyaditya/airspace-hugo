@@ -1,18 +1,18 @@
 ---
 title: Seychelles
-description: this is meta description
+description: "Beauty and great possibilities."
 image: "/images/seychelles-1.jpeg"
 bg_image: "/images/seychelles-2.jpeg"
 category: Video
 information:
-- label: Capital
-  info: Victoria
-- label: Population
-  info: 97,096
-- label: Area
-  info: 459 km2
-
+  - label: Capital
+    info: Victoria
+  - label: Population
+    info: 97,096
+  - label: Area
+    info: 459 km2
 ---
+
 ## Seychelles
 
 Seychelles (/seɪˈʃɛlz/ (About this soundlisten); French: [sɛʃɛl] or [seʃɛl]), officially the Republic of Seychelles (French: République des Seychelles; Creole: La Repiblik Sesel), is an archipelagic island country in the Indian Ocean at the eastern edge of the Somali Sea. The country consists of 115 islands. Its capital and largest city, Victoria, lies 1,500 kilometres (932 mi) east of mainland Africa. Other nearby island countries and territories include Comoros, Madagascar, Mauritius, and the French territories of Mayotte and Réunion to the south; as well as the Maldives and Chagos Archipelago to the east. With a population of roughly 94,367, it has the smallest population of any sovereign African country.

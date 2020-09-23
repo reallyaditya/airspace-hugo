@@ -1,18 +1,18 @@
 ---
 title: Mauritius
-description: this is meta description
+description: "The Island of colors, cultures and flavors."
 image: "/images/mauritius-1.jpeg"
 bg_image: "/images/mauritius-2.jpeg"
 category: " Arts & crafts"
 information:
-- label: Capital
-  info: Port Louis
-- label: Population
-  info: 1,265,475
-- label: Area
-  info: 2,040 km2
-
+  - label: Capital
+    info: Port Louis
+  - label: Population
+    info: 1,265,475
+  - label: Area
+    info: 2,040 km2
 ---
+
 ## Mauritius
 
 Mauritius (/məˈrɪʃ(i)əs, mɔːˈ-/ (About this soundlisten) mə-RISH-(ee-)əs, maw-; French: Maurice [mɔʁis, moʁis] (About this soundlisten); Morisyen: Moris [moʁis]), officially the Republic of Mauritius, is an island nation in the Indian Ocean about 2,000 kilometres (1,200 mi) off the south-east coast of the African continent. It includes the eponymous main island of Mauritius and Rodrigues, Agaléga and St. Brandon.The islands of Mauritius and Rodrigues form part of the Mascarene Islands, along with nearby Réunion, a French overseas department. The capital and largest city, Port Louis, is located on Mauritius, where most of the population is concentrated. The country spans 2,040 square kilometres (790 sq mi) and has an Exclusive Economic Zone covering 2.3 million square kilometres.
