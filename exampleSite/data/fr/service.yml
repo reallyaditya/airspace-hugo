@@ -51,7 +51,7 @@ service:
       name: Developpement
       content: Support de communication
     - icon: ion-earth
-      name: Brand Identity
+      name: Identite de Marque
       content: Stratégie à l’internationale
 
 cta:
