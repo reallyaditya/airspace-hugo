@@ -70,10 +70,15 @@ mission_vision:
   enable: true
   tabs:
     - name: La Vision
-      content:
-        CONTINI, un lieu qui respire l’expression identitaire, un lieu fort de partage de valeurs, de transmission du savoir-faire local, de protection et valorisation du patrimoine, un centre commercial équitable avec de belles boutiques artisanales autour du supermarché de produits alimentaires locaux. Situé à l’ile de la Réunion et partout ailleurs dans le monde où ce beau concept trouvera sa place. Une ville durable co-créer avec la population. 
-        7 secteurs d’activité regroupés et valoriser : Entreprenariat – Formation – Numérique – Agroalimentaire – Artistes – Artisanat – Développement Durable !
-        C’est ce dont nous travaillons à réaliser très prochainement et qui nous tient à cœur. Faire nos courses, le shopping dans un lieu atypique, consommer responsable, avec du circuit court et l’ambiance des îles ! Notre Vision !!!
+      content:CONTINI, un lieu qui respire l’expression identitaire, un lieu fort de partage de valeurs, de transmission du savoir-faire local, de protection et valorisation du patrimoine, un centre commercial équitable avec de belles boutiques artisanales autour du supermarché de produits alimentaires locaux.
+      Situé à l’ile de la Réunion et partout ailleurs dans le monde où ce beau concept trouvera sa place. Une ville durable co-créer avec la population.
+      7 secteurs d'activité regroupés et valorisés; Entreprenariat – Formation – Numérique – Agroalimentaire – Artistes – Artisanat – Développement Durable !
+      \n\nC’est ce dont nous travaillons à réaliser très prochainement et qui nous tient à cœur.
+Faire nos courses, le shopping dans un lieu atypique, consommer responsable, avec du circuit court et l’ambiance des îles !
+Notre Vision !!!
+
+            
+        
     - name: La Mission
       content:
         Fédérer un réseau d’acteurs économique locaux, qui rejoins nos valeurs e ambition à faire rayonner le commerce équitable.
