@@ -5,8 +5,8 @@ banner:
   bg_overlay: true
   title: Le Marché local à votre portée !
   content:
-    "CONTINI connecte les produits et services des iles de l’Océan Indien :
-    Réunion – Maurice – Rodrigues – Madagascar – Seychelles – Mayotte – Comores"
+    "CONTINI connecte les produits et services des iles de l’Océan Indien:
+    \n\nRéunion – Maurice – Rodrigues – Madagascar – Seychelles – Mayotte – Comores"
   button:
     enable: true
     label: "Découvrez nos services"
