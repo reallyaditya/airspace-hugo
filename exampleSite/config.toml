@@ -1,4 +1,4 @@
-baseURL = "https://contini-oi.com"
+baseURL = "https://contini-oi.com/fr/"
 disableLanguages = []
 disqusShortname = ""
 paginate = "4"
@@ -66,6 +66,7 @@ weight = 1
 contentDir = "content/french"
 copyright = "Copyright &copy; 2020 [Contini](https://contini-oi.com) All Rights Reserved"
 home = "Accueil"
+URL = "/fr"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
