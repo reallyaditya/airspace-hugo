@@ -1,18 +1,18 @@
 ---
 title: Madagascar
-description: this is meta description
+description: "Beyond an island!"
 image: "/images/madagascar-1.jpeg"
 bg_image: "/images/madagascar-2.jpeg"
 category: " Arts & crafts"
 information:
-- label: Capital
-  info: Antananarivo
-- label: Population
-  info: 26,262,313
-- label: Area
-  info: 587,041 km2
-
+  - label: Capital
+    info: Antananarivo
+  - label: Population
+    info: 26,262,313
+  - label: Area
+    info: 587,041 km2
 ---
+
 ## Madagascar
 
 Madagascar (/ˌmædəˈɡæskər, -kɑːr/; Malagasy: Madagasikara), officially the Republic of Madagascar (Malagasy: Repoblikan'i Madagasikara Malagasy pronunciation: [republiˈkʲan madaɡasˈkʲarə̥]; French: République de Madagascar), and previously known as the Malagasy Republic, is an island country in the Indian Ocean, approximately 400 kilometres (250 miles) off the coast of East Africa. At 592,800 square kilometres (228,900 sq mi) Madagascar is the world's second-largest island country. The nation comprises the island of Madagascar (the fourth-largest island in the world) and numerous smaller peripheral islands. Following the prehistoric breakup of the supercontinent Gondwana, Madagascar split from the Indian subcontinent around 88 million years ago, allowing native plants and animals to evolve in relative isolation. Consequently, Madagascar is a biodiversity hotspot; over 90% of its wildlife is found nowhere else on Earth. The island's diverse ecosystems and unique wildlife are threatened by the encroachment of the rapidly growing human population and other environmental threats.
