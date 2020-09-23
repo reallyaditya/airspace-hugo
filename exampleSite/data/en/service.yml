@@ -40,20 +40,8 @@ service:
     - icon: ion-coffee
       name: Branding
       content: Creation of your enterprise branding
-    - icon: ion-compass
-      name: Web Design
-      content: Showcase website with e-commerce
-    - icon: ion-image
-      name: App Design
-      content: Mobile application
-    - icon: ion-bug
-      name: Start Up
-      content: Consulting and guidance on your project
-    - icon: ion-headphone
-      name: Logo Design
-      content: Graphic charter Creation
     - icon: ion-leaf
-      name: Developpement
+      name: Development
       content: We accompany you
     - icon: ion-earth
       name: Brand Identity
