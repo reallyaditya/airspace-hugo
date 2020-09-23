@@ -44,7 +44,7 @@ cta:
   content: Union – Passion – Respect
   button:
     enable: true
-    label: Share our values
+    label: Share your values
     link: contact
 funfacts:
   enable: true

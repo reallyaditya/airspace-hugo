@@ -14,8 +14,8 @@ about:
     The C&N Agency of Reunion Islands proposes the products and services of all the Islands of the Indian Ocean.
   button:
     enable: true
-    label: Download Company Profile
-    link: "#"
+    label: View Profile
+    link: "http://cynthiacontiniconsulting.com/"
   funfacts:
     - icon: ion-ios-flask-outline
       name: Projets en cours

@@ -12,14 +12,14 @@ about:
     * Social
     * Ecoresponsable
 
-    \n\nL’Agence C&amp;N de l’île de la Réunion vous proposent les produits et services des iles de l’Océan Indien. Dans un but
+    L’Agence C&amp;N de l’île de la Réunion vous proposent les produits et services des iles de l’Océan Indien. Dans un but
     d'etendre le savoir faire local dans la région, nous mettons non seulement une plateforme à votre disposition mais aussi
     tout un plan d'accompagnement et de suivi tailler sur messure pour votre secteur d'activité.
 
   button:
     enable: true
-    label: Download Company Profile
-    link: "#"
+    label: Descriptif
+    link: "http://cynthiacontiniconsulting.com/"
   funfacts:
     - icon: ion-ios-flask-outline
       name: Projets en cours
@@ -70,22 +70,20 @@ mission_vision:
   enable: true
   tabs:
     - name: La Vision
-      content:CONTINI, un lieu qui respire l’expression identitaire, un lieu fort de partage de valeurs, de transmission du savoir-faire local, de protection et valorisation du patrimoine, un centre commercial équitable avec de belles boutiques artisanales autour du supermarché de produits alimentaires locaux.
+      content: "CONTINI, un lieu qui respire l’expression identitaire, un lieu fort de partage de valeurs, de transmission du savoir-faire local, de protection et valorisation du patrimoine, un centre commercial équitable avec de belles boutiques artisanales autour du supermarché de produits alimentaires locaux.
       Situé à l’ile de la Réunion et partout ailleurs dans le monde où ce beau concept trouvera sa place. Une ville durable co-créer avec la population.
       7 secteurs d'activité regroupés et valorisés; Entreprenariat – Formation – Numérique – Agroalimentaire – Artistes – Artisanat – Développement Durable !
       \n\nC’est ce dont nous travaillons à réaliser très prochainement et qui nous tient à cœur.
-Faire nos courses, le shopping dans un lieu atypique, consommer responsable, avec du circuit court et l’ambiance des îles !
-Notre Vision !!!
+      Faire nos courses, le shopping dans un lieu atypique, consommer responsable, avec du circuit court et l’ambiance des îles !
+      Notre Vision !!!"
 
-            
-        
     - name: La Mission
       content:
         Fédérer un réseau d’acteurs économique locaux, qui rejoins nos valeurs e ambition à faire rayonner le commerce équitable.
 
     - name: L'Approche
-      content: Sensibiliser, former la population a un modèle économique plus respectueux de l’environnement.
-Informer et crée des événements qui permettront au plus grand nombre de comprendre notre ambition et ce qu’est le commerce équitable.
+      content: "Sensibiliser, former la population a un modèle économique plus respectueux de l’environnement.
+      Informer et crée des événements qui permettront au plus grand nombre de comprendre notre ambition et ce qu’est le commerce équitable."
 
 cta:
   enable: true
