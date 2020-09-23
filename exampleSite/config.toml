@@ -1,4 +1,4 @@
-baseURL = "https://contini-oi.com/fr/"
+baseURL = "https://contini-oi.com/"
 disableLanguages = []
 disqusShortname = ""
 paginate = "4"
