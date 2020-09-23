@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image: images/homepage.jpeg
+  bg_image: images/homepage1.jpeg
   bg_overlay: true
   title: The local market at your reach!
   content:
