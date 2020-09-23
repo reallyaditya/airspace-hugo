@@ -39,32 +39,20 @@ service:
   enable: true
   title: "Nos Services"
   description:
-    "Booste ta visibilité avec une équipe d’expert en image de marque qui
-    vous proposent différents services. Une équipe disponible qui fait ces preuves sur
-    le marché local avec des événements tout au long de l’année qui permet aux artisans
-    d’exposer leurs créations."
+    "La Plateforme CONTINI s’unit à l’expertise de Contini Consulting et de l’agence C&N, pour construire une image forte de l’artisan.
+    Souvent isolé et pris par ses activités, il bénéficie au travers de la plateforme d’un accompagnement sur mesure.
+    Notre force et expertise réside dans la connaissance de ce marché que nous connaissons particulièrement !
+    Oui car nous œuvrons chaque jour à son développement."
   service_item:
     - icon: ion-coffee
       name: Branding
-      content: Création de votre image d’entreprise
-    - icon: ion-compass
-      name: Web Design
-      content: Site vitrine et E-commerce
-    - icon: ion-image
-      name: App Design
-      content: Application mobile
-    - icon: ion-bug
-      name: Start Up
-      content: Conseil et accompagnement de projet
-    - icon: ion-headphone
-      name: Logo Design
-      content: Création de charte graphique
+      content: Création de votre image de marque
     - icon: ion-leaf
       name: Developpement
-      content: Vous accompagne
+      content: Support de communication
     - icon: ion-earth
       name: Brand Identity
-      content: Création de la charte identitaire de votre enseigne
+      content: Stratégie à l’internationale
 
 cta:
   enable: true

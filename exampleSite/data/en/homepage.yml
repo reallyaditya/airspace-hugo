@@ -3,7 +3,7 @@ banner:
   enable: true
   bg_image: images/homepage.jpeg
   bg_overlay: true
-  title: The local market at your reach !
+  title: The local market at your reach!
   content:
     "Contini connects the product and services from the different islands in the Indian Ocean :
     Reunion Island - Mauritius - Seychelles -Madagascar - Rodrigues - Mayotte - Comores"
@@ -25,8 +25,8 @@ portfolio:
   content:
     "We believe in craftsmanship and we will do to our maximum to face the challenge of being the
     first e-commerce dedicated to craftsmanship.
-    \n\nHomemade needs to be put at the forefront. All our talents should have the ability to
-    express themselve freely.\n\nCreation is a magnificent endeavour and needs to be seen and heard.
+    \n\nHomemade needs to be put at the forefront. All our talented craftsmen should have the ability to
+    express themselves freely.\n\nCreation is a magnificent endeavour and needs to be seen and heard.
     \n\nBuying an artisanal product is to invest in the value of time, which will never come back, but will forever be imprinted
     in the fabrics of a unique object."
   button:

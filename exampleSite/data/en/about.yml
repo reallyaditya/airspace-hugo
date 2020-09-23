@@ -2,7 +2,7 @@
 about:
   enable: true
   image: images/company/about.jpg
-  title: Passionate Poeple,
+  title: We are passionate people!
   content: |
     Our Islands, our values and our talents breeze life to this platform which allows you to access to trading with the following values:
     - Ethics
@@ -10,7 +10,7 @@ about:
     - Homemade
     - Social
     - Eco-Friendly
- 
+
     The C&N Agency of Reunion Islands proposes the products and services of all the Islands of the Indian Ocean.
   button:
     enable: true
@@ -71,8 +71,7 @@ mission_vision:
         The Vision that pushes us everyday to do better is the faith we have in the potential in each and everyone,
         and with our experience we wish to create a trading platform aligned with our values and in agreement of today's world.
     - name: The Mission
-      content:
-        To unify the major local economic contributors and the people who share our values to advance and grow together.
+      content: To unify the major local economic contributors and the people who share our values to advance and grow together.
     - name: The Approach
       content: Our Network is in force.
         Arts is passion and it is passion that creates art. We are builders commited and respectful of each project.

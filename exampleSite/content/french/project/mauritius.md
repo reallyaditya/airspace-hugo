@@ -1,18 +1,18 @@
 ---
 title: Maurice
-description: this is meta description
+description: "L'Île des couleurs, des cultures et des saveurs."
 image: "/images/mauritius-1.jpeg"
 bg_image: "/images/mauritius-2.jpeg"
 category: Video
 information:
-- label: Capital
-  info: Port Louis
-- label: Population
-  info: 1,265,475
-- label: Superficie
-  info: 2,040 km2
-
+  - label: Capital
+    info: Port Louis
+  - label: Population
+    info: 1,265,475
+  - label: Superficie
+    info: 2,040 km2
 ---
+
 ## Maurice
 
 Maurice (en anglais : Mauritius), en forme longue la république de Maurice (en anglais : Republic of Mauritius), est un État insulaire de l'océan Indien à 868 kilomètres à l'est de Madagascar et 172 kilomètres à l'est-nord-est de La Réunion. Le pays inclut l'île principale de Maurice, mais aussi l'île Rodrigues à 560 kilomètres à l'est de l'île principale. Les îles plus lointaines d'Agaléga et de Saint-Brandon font partie du territoire national. Les îles Maurice et Rodrigues font partie de l'archipel des Mascareignes, avec l'île de La Réunion, un département d'outre-mer français. La superficie totale du pays est de 2 040 km2. La capitale et plus grande ville est Port-Louis.

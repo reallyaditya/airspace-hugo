@@ -1,18 +1,18 @@
 ---
 title: Ile de la Réunion
-description: this is meta description
+description: "L'Île de braise, l'île intense !"
 category: Formation
 image: "/images/reunion-1.jpeg"
 bg_image: "/images/reunion-1.jpeg"
 information:
-- label: Capital
-  info: Saint-Denis
-- label: Population
-  info: 859,959
-- label: Superficie
-  info: 2,511 km2
-
+  - label: Capital
+    info: Saint-Denis
+  - label: Population
+    info: 859,959
+  - label: Superficie
+    info: 2,511 km2
 ---
+
 ## Ile de la Réunion
 
 La Réunion est une île de l'Ouest de l'océan Indien dans l'hémisphère sud ainsi qu'un département d'outre-mer français.

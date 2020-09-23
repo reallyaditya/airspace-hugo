@@ -1,18 +1,18 @@
 ---
 title: Madagascar
-description: this is meta description
+description: "L'Île continent et bien plus encore."
 image: "/images/madagascar-1.jpeg"
 bg_image: "/images/madagascar-2.jpeg"
 category: Artisanat
 information:
-- label: Capital
-  info: Antananarivo
-- label: Population
-  info: 26,262,313
-- label: Superficie
-  info: 587,041 km2
-
+  - label: Capital
+    info: Antananarivo
+  - label: Population
+    info: 26,262,313
+  - label: Superficie
+    info: 587,041 km2
 ---
+
 ## Madagascar
 
 Madagascar, en forme longue la république de Madagascar (en malgache : Madagasikara, ou Repoblikan'i Madagasikara), est un État insulaire situé dans l'océan Indien et géographiquement rattaché au continent africain, dont il est séparé par le canal du Mozambique. C’est la cinquième plus grande île du monde après l'Australie, le Groenland, la Nouvelle-Guinée et Bornéo. Longue de 1 580 km et large de 580 km, Madagascar couvre une superficie de 587 000 km2. Sa capitale est Antananarivo6 et le pays a pour monnaie l'ariary. Ses habitants, les Malgaches, sont un peuple austronésien parlant une langue malayo-polynésienne : le malgache. Le pays est entouré par d'autres îles et archipels dont l'île Maurice, les Seychelles, Mayotte, les Comores et La Réunion.

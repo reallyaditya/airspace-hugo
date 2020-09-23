@@ -1,18 +1,18 @@
 ---
-title : "Grande Comore & Mayotte"
-description : "this is meta description"
-image : "/images/mayotte-1.jpeg"
-bg_image : "/images/mayotte-2.jpeg"
-category : "Video"
+title: "Grande Comore & Mayotte"
+description: "L'union fait la force !"
+image: "/images/mayotte-1.jpeg"
+bg_image: "/images/mayotte-2.jpeg"
+category: "Video"
 information:
-- label: Capital
-  info: Moroni
-- label: Population
-  info: 1,008,246
-- label: Superficie
-  info: 2,034 km2
-
+  - label: Capital
+    info: Moroni
+  - label: Population
+    info: 1,008,246
+  - label: Superficie
+    info: 2,034 km2
 ---
+
 ## Grande Comore & Mayotte
 
 L'archipel des Comores est un ensemble d'îles de l'océan Indien, situées dans le nord du canal du Mozambique, au sud-est de l'Afrique, entre le littoral nord mozambicain et à la pointe nord de Madagascar.

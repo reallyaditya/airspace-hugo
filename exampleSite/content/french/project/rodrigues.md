@@ -1,18 +1,18 @@
 ---
 title: Rodrigues
-description: this is meta description
+description: "Petite de taille mais grande de force !"
 image: "/images/rodrigues-1.jpeg"
 bg_image: "/images/rodrigues-2.jpeg"
 category: "Artisanat"
 information:
-- label: Capital
-  info: Port Mathurin
-- label: Population
-  info: 41,669
-- label: Superficie
-  info: 108 km2
-
+  - label: Capital
+    info: Port Mathurin
+  - label: Population
+    info: 41,669
+  - label: Superficie
+    info: 108 km2
 ---
+
 ## Rodrigues
 
 Rodrigues est la plus petite des îles principales de l’archipel des Mascareignes. Elle est surnommée "la Cendrillon des Mascareignes".
