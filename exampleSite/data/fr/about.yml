@@ -12,7 +12,7 @@ about:
     * Social
     * Ecoresponsable
 
-    L’Agence C&amp;N de l’île de la Réunion vous proposent les produits et services des iles de l’Océan Indien. Dans un but
+    \n\nL’Agence C&amp;N de l’île de la Réunion vous proposent les produits et services des iles de l’Océan Indien. Dans un but
     d'etendre le savoir faire local dans la région, nous mettons non seulement une plateforme à votre disposition mais aussi
     tout un plan d'accompagnement et de suivi tailler sur messure pour votre secteur d'activité.
 
@@ -71,17 +71,16 @@ mission_vision:
   tabs:
     - name: La Vision
       content:
-        Nous avons commencé avec des valeurs communes qui ont fédérés un réseau de qualité dont nous
-        sommes fières aujourd’hui. La Vision qui nous poussent chaque jour à aller de l’avant c’est que nous
-        croyons dans le potentiel de chacun et grâce à notre expérience nous souhaitons créer à terme un
-        commerce aligné à nos valeurs et en accord avec notre monde d’aujourd’hui.
+        CONTINI, un lieu qui respire l’expression identitaire, un lieu fort de partage de valeurs, de transmission du savoir-faire local, de protection et valorisation du patrimoine, un centre commercial équitable avec de belles boutiques artisanales autour du supermarché de produits alimentaires locaux. Situé à l’ile de la Réunion et partout ailleurs dans le monde où ce beau concept trouvera sa place. Une ville durable co-créer avec la population. 
+        7 secteurs d’activité regroupés et valoriser : Entreprenariat – Formation – Numérique – Agroalimentaire – Artistes – Artisanat – Développement Durable !
+        C’est ce dont nous travaillons à réaliser très prochainement et qui nous tient à cœur. Faire nos courses, le shopping dans un lieu atypique, consommer responsable, avec du circuit court et l’ambiance des îles ! Notre Vision !!!
     - name: La Mission
       content:
-        Rassembler les acteurs économiques locaux et les personnes qui partagent nos valeurs pour
-        avancées et évoluer ensemble.
+        Fédérer un réseau d’acteurs économique locaux, qui rejoins nos valeurs e ambition à faire rayonner le commerce équitable.
+
     - name: L'Approche
-      content: Notre force, votre savoir faire et notre réseau !
-        L’Art est passion et la passion créer l’Art. Nous sommes des bâtisseurs engagés et respectueux de
-        chaque porteur de projet
+      content: Sensibiliser, former la population a un modèle économique plus respectueux de l’environnement.
+Informer et crée des événements qui permettront au plus grand nombre de comprendre notre ambition et ce qu’est le commerce équitable.
+
 cta:
   enable: true
