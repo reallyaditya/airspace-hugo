@@ -13,15 +13,10 @@ banner:
     link: http://cynthiacontiniconsulting.com/
 about:
   enable: true
-  title: Who are we ?
-  description: |
-    Our Islands, our values and our talents has give life to this platform which has the aim to spread the following values:
-    - Ethics
-    - Trading equality
-    - Homemade
-    - Social
-    - Eco-Friendly
-  content: The C&N Agency of Reunion Islands proposes the products and services of all the Islands of the Indian Ocean.
+  title: Who are we?
+  description:This concept was attributed and developed by Contini Consulting whose Founder is a young woman entrepreneur who made her debut 10 years ago. Contini consulting wants to promote the Heritage and the values ​​of a circular, social and solidarity economy. The idea of ​​this concept is to value all local actors. 2020 to prove to the world, where we are tenant, that the COVID and POST COVID period has given a boost to local production despite the global economic shutdown that has affected us. We had to turn to local production. The current situation shows that the CONTINI concept is an added value for us, our children and future generations. |
+
+  content: The definition - (who, what, where, how and when). Who? Cynthia Contini, The Founder What? Fair trade Why? To promote local economic players When? A circular economy after the Covid-19, the post-Covid to promote the circular economy. Where? Reunion Island, Indian Ocean and Earth! The lesson that we inhabitant of this Earth have been able to retain and learned is that our elders already cultivated this value before the boom in technological development. "This innovative concept that in the past, our elders already mastered"!
   image: images/about.jpg
 portfolio:
   enable: true
