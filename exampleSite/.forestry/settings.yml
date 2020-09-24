@@ -21,19 +21,23 @@ sections:
   templates:
   - project
 - type: heading
-  label: Others Pages
+  label: Homepage
 - type: document
   path: exampleSite/data/en/homepage.yml
   label: Homepage (en)
 - type: document
   path: exampleSite/data/fr/homepage.yml
   label: Homepage (fr)
+- type: heading
+  label: About
 - type: document
   path: exampleSite/data/en/about.yml
   label: About (en)
 - type: document
   path: exampleSite/data/fr/about.yml
   label: About (fr)
+- type: heading
+  label: Services
 - type: document
   path: exampleSite/data/en/service.yml
   label: Service (en)
@@ -44,7 +48,7 @@ sections:
   label: Data
 - type: directory
   path: exampleSite/i18n
-  label: i18n
+  label: Translations
   create: documents
   match: "**/*"
 - type: heading
