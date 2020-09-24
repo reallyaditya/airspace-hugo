@@ -22,16 +22,14 @@ sections:
   - project
 - type: heading
   label: Others Pages
-- type: directory
-  path: exampleSite/content/english/about
-  label: About (en)
-  create: none
-  match: "*"
-- type: directory
-  path: exampleSite/content/french/about
-  label: About (fr)
-  create: none
-  match: "*"
+- type: document
+  path: exampleSite/data/en/about.yml
+  label: About (en) yml
+  match: "**/*"
+- type: document
+  path: exampleSite/data/fr/about.yml
+  label: About (fr) tml
+  match: "**/*"
 - type: directory
   path: exampleSite/content/english/service
   label: Service (en)
