@@ -25,11 +25,9 @@ sections:
 - type: document
   path: exampleSite/data/en/homepage.yml
   label: Homepage (en)
-  match: "**/*"
 - type: document
   path: exampleSite/data/fr/homepage.yml
   label: Homepage (fr)
-  match: "**/*"
 - type: document
   path: exampleSite/data/en/about.yml
   label: About (en)
@@ -39,11 +37,9 @@ sections:
 - type: document
   path: exampleSite/data/en/service.yml
   label: Service (en)
-  match: "**/*"
 - type: document
   path: exampleSite/data/fr/service.yml
   label: Service (fr)
-  match: "**/*"
 - type: heading
   label: Data
 - type: directory
