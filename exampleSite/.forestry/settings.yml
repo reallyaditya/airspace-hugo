@@ -23,29 +23,27 @@ sections:
 - type: heading
   label: Others Pages
 - type: document
+  path: exampleSite/data/en/homepage.yml
+  label: Homepage (en)
+  match: "**/*"
+- type: document
+  path: exampleSite/data/fr/homepage.yml
+  label: Homepage (fr)
+  match: "**/*"
+- type: document
   path: exampleSite/data/en/about.yml
-  label: About (en) yml
+  label: About (en)
 - type: document
   path: exampleSite/data/fr/about.yml
-  label: About (fr) tml
+  label: About (fr)
 - type: document
   path: exampleSite/data/en/service.yml
-  label: Service (en) yml
+  label: Service (en)
   match: "**/*"
 - type: document
   path: exampleSite/data/fr/service.yml
-  label: Service (fr) yml
+  label: Service (fr)
   match: "**/*"
-- type: directory
-  path: exampleSite/content/english/contact
-  label: Contact (en)
-  create: none
-  match: "*"
-- type: directory
-  path: exampleSite/content/french/contact
-  label: Contact (fr)
-  create: none
-  match: "*"
 - type: heading
   label: Data
 - type: directory
