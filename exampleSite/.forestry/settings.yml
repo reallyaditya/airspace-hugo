@@ -25,41 +25,17 @@ sections:
 - type: document
   path: exampleSite/data/en/about.yml
   label: About (en) yml
-  match: "**/*"
 - type: document
   path: exampleSite/data/fr/about.yml
   label: About (fr) tml
+- type: document
+  path: exampleSite/data/en/service.yml
+  label: Service (en) yml
   match: "**/*"
-- type: directory
-  path: exampleSite/content/english/service
-  label: Service (en)
-  create: none
-  match: "*"
-- type: directory
-  path: exampleSite/content/french/service
-  label: Service (fr)
-  create: none
-  match: "*"
-- type: directory
-  path: exampleSite/content/english/pricing
-  label: Pricing (en)
-  create: none
-  match: "*"
-- type: directory
-  path: exampleSite/content/french/pricing
-  label: Pricing (fr)
-  create: none
-  match: "*"
-- type: directory
-  path: exampleSite/content/english/faq
-  label: FAQ (en)
-  create: none
-  match: "*"
-- type: directory
-  path: exampleSite/content/french/faq
-  label: FAQ (fr)
-  create: none
-  match: "*"
+- type: document
+  path: exampleSite/data/fr/service.yml
+  label: Service (fr) yml
+  match: "**/*"
 - type: directory
   path: exampleSite/content/english/contact
   label: Contact (en)
