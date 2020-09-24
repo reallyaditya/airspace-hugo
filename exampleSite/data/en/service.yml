@@ -1,8 +1,9 @@
 ---
 about:
-  enable: true
-  title: 'Brand specialist and entrepreneurs training.  '
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate soluta
+  enable: false
+  title: "Brand specialist and entrepreneurs training.  "
+  content:
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate soluta
     corporis odit, optio cum! Accusantium numquam ab, natus excepturi architecto earum
     ipsa aliquam, illum, omnis rerum, eveniet officia nihil. Eum quod iure nulla,
     soluta architecto distinctio. Nesciunt odio ullam expedita, neque fugit maiores
@@ -14,28 +15,30 @@ about:
     dolore officia adipisci neque!
   image: images/company/company-group-pic.jpg
 featured_service:
-  enable: true
+  enable: false
   service_item:
-  - name: Swot Analysis
-    icon: ion-erlenmeyer-flask
-    color: primary
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
-      impedit repudiandae omnis est temporibus.
-  - name: 'Digital Optimization '
-    icon: ion-leaf
-    color: primary-dark
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
-      impedit repudiandae omnis est temporibus.
-  - name: 'Concept & Realization '
-    icon: ion-lightbulb
-    color: primary-darker
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
-      impedit repudiandae omnis est temporibus.
+    - name: Swot Analysis
+      icon: ion-erlenmeyer-flask
+      color: primary
+      content:
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
+        impedit repudiandae omnis est temporibus.
+    - name: "Digital Optimization "
+      icon: ion-leaf
+      color: primary-dark
+      content:
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
+        impedit repudiandae omnis est temporibus.
+    - name: "Concept & Realization "
+      icon: ion-lightbulb
+      color: primary-darker
+      content:
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
+        impedit repudiandae omnis est temporibus.
 service:
   enable: true
   title: Our Services
-  description: 
-   "We are a team of expert in corporate branding and propose to boost your visibily with our various services. We are an available team and are proving ourself in the local market with multiple events for the entire year that would help craftsmen showcase their creations."
+  description: "We are a team of expert in corporate branding and propose to boost your visibily with our various services. We are an available team and are proving ourself in the local market with multiple events for the entire year that would help craftsmen showcase their creations."
   service_item:
     - icon: ion-coffee
       name: Branding
@@ -48,4 +51,4 @@ service:
       content: Identity charter creation of your brand
 
 cta:
-  enable: true
+  enable: false
